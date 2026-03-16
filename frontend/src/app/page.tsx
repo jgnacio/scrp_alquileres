@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Image from "next/image";
 
 type Inmueble = {
   imagen_url: string;
@@ -17,115 +16,173 @@ type Inmueble = {
   url: string;
 };
 
+type ScraperData = {
+  last_updated: string;
+  data: Inmueble[];
+};
+
 export default function Home() {
   const [inmuebles, setInmuebles] = useState<Inmueble[]>([]);
+  const [lastUpdated, setLastUpdated] = useState<string>("");
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Fetch from the public directory (served at root in Vercel)
     fetch("/alquileres.json")
       .then((res) => {
-        if (!res.ok) throw new Error("No data found");
+        if (!res.ok) throw new Error("No hay datos disponibles.");
         return res.json();
       })
-      .then((data) => {
-        setInmuebles(data);
+      .then((payload: ScraperData) => {
+        setInmuebles(payload.data || []);
+        setLastUpdated(payload.last_updated || "");
         setLoading(false);
       })
       .catch((error) => {
-        console.error("Error fetching data:", error);
+        console.error("Error cargando el JSON:", error);
         setLoading(false);
       });
   }, []);
 
+  const getSourceBadge = (url: string) => {
+    const u = url.toLowerCase();
+    if (u.includes("gallito")) return "Gallito Luis";
+    if (u.includes("infocasas")) return "InfoCasas";
+    if (u.includes("mercadolibre")) return "MercadoLibre";
+    return "Propiedad";
+  };
+
   return (
-    <div className="min-h-screen bg-white text-black font-sans selection:bg-gray-200">
-      <header className="border-b border-black py-8 px-6 md:px-12 flex flex-col md:flex-row md:items-end justify-between gap-4">
+    <div className="min-h-screen bg-white text-black font-sans selection:bg-gray-100">
+      <header className="border-b border-black py-10 px-6 md:px-12 bg-white flex flex-col md:flex-row md:items-end justify-between gap-6">
         <div>
-          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tighter uppercase">
+          <h1 className="text-5xl md:text-6xl font-black tracking-tighter uppercase leading-none">
             Alquileres
           </h1>
-          <p className="text-gray-500 text-sm mt-2 tracking-widest uppercase">
-            Actualizados diariamente
-          </p>
+          <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 mt-4">
+            <p className="text-gray-400 text-[10px] tracking-[0.2em] uppercase font-bold">
+              Monitor de Propiedades
+            </p>
+            {lastUpdated && (
+              <span className="hidden sm:inline-block w-1 h-1 rounded-full bg-gray-300"></span>
+            )}
+            {lastUpdated && (
+              <p className="text-black text-[10px] tracking-[0.1em] uppercase font-bold">
+                Actualizado: {lastUpdated}
+              </p>
+            )}
+          </div>
         </div>
-        <div className="text-sm font-semibold tracking-wider">
-          {inmuebles.length} RESULTADOS
+        <div className="text-xs font-black tracking-widest border border-black px-4 py-2 uppercase">
+          {inmuebles.length} Resultados
         </div>
       </header>
 
-      <main className="max-w-[1600px] mx-auto py-12 px-6 md:px-12">
+      <main className="max-w-[1500px] mx-auto py-16 px-6 md:px-12">
         {loading ? (
-          <div className="flex h-64 items-center justify-center">
-            <p className="text-gray-400 tracking-widest text-sm uppercase animate-pulse">
-              Cargando datos...
+          <div className="flex flex-col items-center justify-center py-40">
+            <div className="w-12 h-1 bg-black animate-pulse mb-4"></div>
+            <p className="text-[10px] tracking-[0.3em] font-bold uppercase text-gray-400">
+              Sincronizando...
             </p>
           </div>
         ) : inmuebles.length === 0 ? (
-          <div className="flex h-64 items-center justify-center">
+          <div className="text-center py-40">
             <p className="text-gray-400 tracking-widest text-sm uppercase">
-              No se encontraron listados.
+              No se encontraron listados en este momento.
             </p>
           </div>
         ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-8 gap-y-16">
             {inmuebles.map((inm, idx) => (
-              <a
+              <div
                 key={inm.id || idx}
-                href={inm.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="group flex flex-col border border-gray-200 hover:border-black transition-all duration-300 relative bg-white"
+                className="group flex flex-col relative bg-white"
               >
-                {inm.es_dueno && (
-                  <div className="absolute top-4 left-4 z-10 bg-black text-white text-[10px] font-bold uppercase py-1 px-3 tracking-widest">
-                    Dueño Directo
+                {/* Image Container */}
+                <a
+                  href={inm.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="aspect-[4/5] w-full overflow-hidden bg-gray-50 border border-gray-100 relative block"
+                >
+                  {inm.es_dueno && (
+                    <div className="absolute top-0 left-0 z-10 bg-black text-white text-[9px] font-black uppercase py-1.5 px-3 tracking-[0.15em]">
+                      Dueño Directo
+                    </div>
+                  )}
+                  
+                  <div className="absolute top-0 right-0 z-10 bg-white border-l border-b border-gray-100 text-black text-[9px] font-black uppercase py-1.5 px-3 tracking-[0.15em]">
+                    {getSourceBadge(inm.url)}
                   </div>
-                )}
-                
-                <div className="aspect-[4/3] w-full overflow-hidden bg-gray-50 border-b border-gray-100 relative">
+
                   {inm.imagen_url ? (
                     <img
                       src={inm.imagen_url}
-                      alt={inm.titulo || "Inmueble"}
-                      className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-700 ease-in-out grayscale-[20%] group-hover:grayscale-0"
+                      alt={inm.titulo}
+                      className="object-cover w-full h-full grayscale-[100%] group-hover:grayscale-0 transition-all duration-700 ease-in-out group-hover:scale-105"
                     />
                   ) : (
-                    <div className="w-full h-full flex items-center justify-center text-gray-300 text-xs tracking-widest uppercase">
-                      Sin imagen
+                    <div className="w-full h-full flex items-center justify-center text-gray-200 text-[10px] tracking-widest uppercase">
+                      Imagen no disponible
                     </div>
                   )}
-                </div>
+                </a>
 
-                <div className="p-6 flex flex-col flex-grow">
-                  <div className="mb-4">
-                    <h2 className="font-bold text-lg leading-snug mb-2 line-clamp-2">
-                      {inm.titulo || "Inmueble sin título"}
-                    </h2>
-                    <p className="text-gray-500 text-xs leading-relaxed line-clamp-3">
-                      {inm.detalles}
-                    </p>
-                  </div>
-
-                  <div className="mt-auto pt-6 border-t border-gray-100 flex items-end justify-between">
-                    <div>
-                      <span className="text-[10px] text-gray-400 uppercase tracking-widest block mb-1">
-                        Precio
-                      </span>
-                      <span className="font-black text-2xl tracking-tight">
+                {/* Content */}
+                <div className="pt-6 flex flex-col flex-grow">
+                  <header className="mb-4">
+                    <div className="flex items-baseline justify-between gap-2 mb-2">
+                       <span className="font-black text-2xl tracking-tighter">
                         {inm.moneda} {inm.precio}
                       </span>
+                      {inm.area_m2 && (
+                        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">
+                          {inm.area_m2}
+                        </span>
+                      )}
                     </div>
-                    <span className="text-xs font-bold uppercase tracking-wider border-b border-transparent group-hover:border-black transition-colors pb-0.5">
-                      Ver Detalles →
-                    </span>
+                    <h2 className="font-bold text-sm tracking-tight leading-snug line-clamp-2 uppercase group-hover:underline underline-offset-4 decoration-1">
+                      {inm.titulo || "PROPIEDAD SIN TÍTULO"}
+                    </h2>
+                  </header>
+
+                  <p className="text-gray-500 text-[11px] leading-relaxed line-clamp-3 mb-6 font-medium">
+                    {inm.detalles}
+                  </p>
+
+                  <div className="mt-auto grid grid-cols-1 gap-2">
+                    {inm.whatsapp_link ? (
+                      <a
+                        href={inm.whatsapp_link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="bg-black text-white text-[10px] font-black uppercase py-4 px-4 tracking-[0.2em] flex items-center justify-center hover:bg-gray-800 transition-colors"
+                      >
+                         WhatsApp Chat
+                      </a>
+                    ) : (
+                      <a
+                      href={inm.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-black text-white text-[10px] font-black uppercase py-4 px-4 tracking-[0.2em] flex items-center justify-center hover:bg-gray-800 transition-colors"
+                    >
+                       Ver Publicación
+                    </a>
+                    )}
                   </div>
                 </div>
-              </a>
+              </div>
             ))}
           </div>
         )}
       </main>
+
+      <footer className="border-t border-gray-100 mt-20 py-12 px-6 text-center">
+        <p className="text-[10px] tracking-[0.4em] font-black uppercase text-gray-300">
+          {new Date().getFullYear()}
+        </p>
+      </footer>
     </div>
   );
 }

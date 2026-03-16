@@ -128,15 +128,23 @@ def main():
     archivo_salida_xlsx = "alquileres.xlsx"
     archivo_salida_json = "alquileres.json"
     
+    import datetime
+    ahora = datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
+    
+    json_output = {
+        "last_updated": ahora,
+        "data": todos_los_datos
+    }
+    
     # Guardar en JSON (Asegurando codificación UTF-8 para caracteres especiales)
     with open(archivo_salida_json, "w", encoding="utf-8") as f:
-        json.dump(todos_los_datos, f, ensure_ascii=False, indent=4)
+        json.dump(json_output, f, ensure_ascii=False, indent=4)
         
     import os
     # Crear carpeta public del frontend si no existe y copiar ahí el json también
     os.makedirs(os.path.join("frontend", "public"), exist_ok=True)
     with open(os.path.join("frontend", "public", "alquileres.json"), "w", encoding="utf-8") as f:
-        json.dump(todos_los_datos, f, ensure_ascii=False, indent=4)
+        json.dump(json_output, f, ensure_ascii=False, indent=4)
         
     # Utilizamos la función de gallito que crea un archivo nuevo desde cero con las imágenes
     gallito.save_to_excel(todos_los_datos, archivo_salida_xlsx)
