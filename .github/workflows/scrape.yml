@@ -1,0 +1,50 @@
+name: Scraper Diario Alquileres
+
+on:
+  schedule:
+    # Ejecutar todos los días a las 14:00 UTC (11:00 AM UTC-3 Uruguay)
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Permite ejecución manual desde GitHub
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Espera Aleatoria (Random Delay)
+        run: |
+          # Esperar un tiempo aleatorio entre 0 y 60 minutos (0 a 3600 segundos) para simular entrada humana y ejecutarse en cualquier momento entre las 11:00 y las 12:00
+          DELAY=$((RANDOM % 3600))
+          echo "Esperando $DELAY segundos antes de ejecutar el scraper..."
+          sleep $DELAY
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4 requests openpyxl
+          
+      - name: Ejecutar Scraper Principal
+        run: |
+          # El scraper generará alquileres.json y alquileres.xlsx
+          python main.py
+          
+      - name: Commit y Push de los cambios
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          git add alquileres.xlsx alquileres.json
+          
+          # Si no hay cambios, commit falla. Se usa || exit 0 para no romper el action
+          git commit -m "chore: actualizacion automatica de alquileres [skip ci]" || exit 0
+          
+          git push
