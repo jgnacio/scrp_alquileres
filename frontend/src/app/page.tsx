@@ -135,11 +135,6 @@ export default function Home() {
                        <span className="font-black text-2xl tracking-tighter">
                         {inm.moneda} {inm.precio}
                       </span>
-                      {inm.area_m2 && (
-                        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">
-                          {inm.area_m2}
-                        </span>
-                      )}
                     </div>
                     <h2 className="font-bold text-sm tracking-tight leading-snug line-clamp-2 uppercase group-hover:underline underline-offset-4 decoration-1">
                       {inm.titulo || "PROPIEDAD SIN TÍTULO"}
