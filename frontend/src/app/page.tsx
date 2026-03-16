@@ -119,7 +119,7 @@ export default function Home() {
                     <img
                       src={inm.imagen_url}
                       alt={inm.titulo}
-                      className="object-cover w-full h-full grayscale-[100%] group-hover:grayscale-0 transition-all duration-700 ease-in-out group-hover:scale-105"
+                      className="object-cover w-full h-full transition-all duration-700 ease-in-out group-hover:scale-105"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-gray-200 text-[10px] tracking-widest uppercase">
