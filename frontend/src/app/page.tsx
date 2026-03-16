@@ -103,7 +103,7 @@ export default function Home() {
                   href={inm.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="aspect-[4/5] w-full overflow-hidden bg-gray-50 border border-gray-100 relative block"
+                  className="aspect-square w-full overflow-hidden bg-gray-50 border border-gray-100 relative block"
                 >
                   {inm.es_dueno && (
                     <div className="absolute top-0 left-0 z-10 bg-black text-white text-[9px] font-black uppercase py-1.5 px-3 tracking-[0.15em]">
