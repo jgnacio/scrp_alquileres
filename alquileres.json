@@ -1,19 +1,6 @@
 {
-    "last_updated": "16/03/2026 16:34",
+    "last_updated": "18/03/2026 22:44",
     "data": [
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_983184-MLU107936486144_032026-E.webp",
-            "moneda": "UYU",
-            "precio": "20.000",
-            "titulo": "Casa En Barros Blancos Km 26.500 De Ruta 8 A Una Cuadra De La Ruta, Exelente Estado",
-            "detalles": "3 dorm. | 2 baños | 200 m² totales",
-            "area_m2": "200 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-671466621-casa-en-barros-blancos-km-26500-de-ruta-8-a-una-cuadra-de-la-ruta-exelente-estado-_JM#polycard_client=search-desktop&search_layout=grid&position=1&type=item&float_highlight=recent_publication&tracking_id=6707838f-7741-41a1-8ed7-e7536d4cf9dc",
-            "es_dueno": true
-        },
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos-patio/193475435",
             "titulo": "Alquiler casa 2 dormitorios barros blancos patio",
@@ -41,16 +28,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/duplex-en-remanso-de-neptunia-sur/193303324",
-            "titulo": "Duplex en remanso de neptunia sur",
-            "id": "193303324",
-            "detalles": "CADA UNO CONTIENE: 2 DORMITORIOS COCINA CON MUEBLE BAJO MESADA Y AÉREO  BAÑO CON CABINA PEQUEÑO PATIO AL FONDO. ENTRADA COMPARTIDA ESCUELA A 2 CUADRAS  EXONERA PEAJE.  A ESTRENAR   Por aseguradora anda o contaduría  $19000 Referencia Interna : Tera-3585",
+            "url": "https://www.infocasas.com.uy/se-alquila-duplex-a-estrenar-2-dorm-en-neptunia-sur-las-2-disponibles/193386784",
+            "titulo": "Se alquila duplex a estrenar, 2 dorm. en neptunia sur. las 2 disponibles.",
+            "id": "193386784",
+            "detalles": "Se alquila casa de 2 dormitorios a estrenar.  SON 2 CASAS DISPONIBLE $19.000 cada una Desarrollada en 2 plantas Abajo estar con cocina integrada Baño con cabina para ducha Arriba 2 dormitorios Es una casa a estrenar sobre Ruta 10 Neptunia Sur 36m2 construidos Frente compartido Espacio para auto Fondo privado con parrillero Ute individual Ose compartida Sin Gastos Comunes  Comisión 1 mes de alquiler +iva Cada oficina es de propiedad y operación independiente La inmobiliaria actúa únicamente como intermediaria comercial. la asesora Fabiana Abreu desarrolla su gestión en forma independiente,  sin que la oficina asuma responsabilidad por actos individuales del mismo",
             "moneda": "$",
             "precio": "19.000",
             "area_m2": "36",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-3585-TRA_936.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.175442577_12231_463.jpg",
             "es_dueno": false
         },
         {
@@ -64,6 +51,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-1300-ALQ_968.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-1-dormitorio-en-aeroparque/193534605",
+            "titulo": "Alquiler casa 1 dormitorio en aeroparque",
+            "id": "193534605",
+            "detalles": "Casa a estrenar ubicada en Barrio Aeroparque, en una zona tranquila con buena conectividad, a solo 3 cuadras de Ruta 101, próxima a centros educativos, comercios y parada de ómnibus.  La propiedad cuenta con una distribución funcional y luminosa, ideal para quienes buscan un hogar cómodo y práctico.  Características de la propiedad:  * Living comedor luminoso integrado a la cocina * Cocina equipada con campana de extracción * 1 dormitorio con amplia ventana y excelente iluminación natural * Baño completo * Calefón instalado * Amplio frente y fondo propio, que brindan espacio exterior adicional  Consultá para más información o coordinar visita.",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "35",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69baf572010dd_infocdn__pvvhhhe5ediyvdilswqplydo5couhx9effjodcsrpng.png",
             "es_dueno": false
         },
         {
@@ -106,16 +106,29 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/casa-en-alquiler-2-dormitorios-colonia-nicolich/193426616",
-            "titulo": "Casa en alquiler! 2 dormitorios colonia nicolich",
-            "id": "193426616",
-            "detalles": "EN COMPLEJO DE CASAS CONTENEDOR !   Sin gastos comunes  Living comedor  Cocina semi integrada  2 Dormitorios  1 Baño completo  Jardin al frente  Lugar para auto  GARANTIAS Anda, Contaduria o Porto Seguro",
+            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos/193521237",
+            "titulo": "Alquiler casa 2 dormitorios - barros blancos",
+            "id": "193521237",
+            "detalles": "Alquiler Casa 2 Dormitorios - Barros Blancos  Ubicada sobre Ruta 101, una de las principales áreas industriales y logísticas en el Departamento de Canelones, ubicado cerca de Montevideo y a pocos kilómetros del puerto, aeropuerto y rutas nacionales, a pasos de la ciudad de Pando. Muy buena locomoción y servicios.  La casa es un PH con 2 casass totalmente individuales, se desarrolla en dos plantas, en planta baja living comedor súper luminoso y aereado, cocina americana con mueble bajo mesada, patio exterior semi techado con prevision para instalación para lavarropa. En planta alta se encuentra 2 dormitorios, baño completo, boardilla. Cuenta con zona para dejar vehiculo y parque de uso exclusivo.  NO CUENTA CON GASTOS COMUNES! Contrato a dos años Costo $16.000   Garantias: Mapfre, Porto Seguros, Contaduría, Anda, Fideciu  No dejes de consultar!   Visita nuestra web para enterarte de todas nuestras opciones!     Coordina una visita ahora!   Visita nuestra web para enterarte de todas nuestras opciones!   Referencia Interna : Tera-402",
             "moneda": "$",
-            "precio": "17.000",
+            "precio": "16.000",
             "area_m2": "45",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.699c8affe5beb_infocdn__nasmmueizsw01bxcxqhrfwyr9pb7yww5wjo9tc9ajpg.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-402-TRA_690.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/193521241",
+            "titulo": "Alquiler casa dos dormitorios - barros blancos",
+            "id": "193521241",
+            "detalles": "Alquiler Casa dos Dormitorios - Barros Blancos  Ubicada sobre Ruta 101, una de las principales áreas industriales y logísticas en el Departamento de Canelones, muy cerca del Parque de las Ciencias, cerca del aeropuerto, Montevideo, la ciudad de Pando. Muy buena locomoción y servicios.  La casa es un PH con 2 casas totalmente individuales, se desarrolla en dos plantas, en planta baja living comedor súper luminoso y aireado, cocina americana con mueble bajo mesada, patio exterior semi techado con previsión para instalación para lavarropa. En planta alta se encuentra 2 dormitorios, baño completo, boardilla. Cuenta con zona para dejar vehiculo y parque de uso exclusivo.  SIN GASTOS COMUNES! Contrato a dos años Costo : $16.000  Garantías: Mapfre, Porto Seguros, Contaduría, Anda, Fideciu  No dejes de consultar!  Visita nuestra web para enterarte de todas nuestras opciones!   Coordina una visita ahora!   Visita nuestra web para enterarte de todas nuestras opciones!   Referencia Interna : Tera-410",
+            "moneda": "$",
+            "precio": "16.000",
+            "area_m2": "45",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-410-TRA_729.jpg",
             "es_dueno": false
         },
         {
@@ -142,110 +155,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.698f916a23a15_infocdn__hiyromkvgofp8udkrsywgwdbczqhso0exx36bgtjjpg.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/casa-alquiler-montevideo-montevideo-imasuy-f-inmuebles-28785757",
-            "titulo": "Casa Alquiler Montevideo Montevideo iMas.uy F...",
-            "id": "28785757",
-            "detalles": "2 Dormitorios",
-            "moneda": "$U",
-            "precio": "21.000",
-            "area_m2": "Impecable",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-montevideo-montevideo-imasuy-f-inmuebles-28785757",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/8e067c64468e4.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/casa-alquiler-jardin-patio-montevideo-imasuy-lm-inmuebles-28763104",
-            "titulo": "Casa Alquiler Jardín Patio Montevideo iMas.uy LM...",
-            "id": "28763104",
-            "detalles": "2 Dormitorios",
-            "moneda": "$U",
-            "precio": "21.000",
-            "area_m2": "Impecable",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-jardin-patio-montevideo-imasuy-lm-inmuebles-28763104",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/fa33eacab4434.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/alquiler-de-monoambiente-inmuebles-28526260",
-            "titulo": "Alquiler de monoambiente",
-            "id": "28526260",
-            "detalles": "1 Ambiente",
-            "moneda": "$U",
-            "precio": "14.000",
-            "area_m2": "",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOURU.HOGARES.Y.TERRENOS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%201%20Ambiente%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Falquiler-de-monoambiente-inmuebles-28526260",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/1096811668a14.jpg",
-            "es_dueno": false
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_983184-MLU107936486144_032026-E.webp",
-            "moneda": "UYU",
-            "precio": "20.000",
-            "titulo": "Casa En Barros Blancos Km 26.500 De Ruta 8 A Una Cuadra De La Ruta, Exelente Estado",
-            "detalles": "3 dorm. | 2 baños | 200 m² totales",
-            "area_m2": "200 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-671466621-casa-en-barros-blancos-km-26500-de-ruta-8-a-una-cuadra-de-la-ruta-exelente-estado-_JM#polycard_client=search-desktop&search_layout=grid&position=3&type=item&float_highlight=recent_publication&tracking_id=9ed9eb41-7aaf-4f9e-b17e-c48329c23f88",
-            "es_dueno": false
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_936229-MLU107076968196_022026-E.webp",
-            "moneda": "UYU",
-            "precio": "19.500",
-            "titulo": "Alquiler Casa 2 Dormitorios Ruta 101 Barros Blanco",
-            "detalles": "2 dorm. | 1 baño | 110 m² totales",
-            "area_m2": "110 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1102142650-alquiler-casa-2-dormitorios-ruta-101-barros-blanco-_JM#polycard_client=search-desktop&search_layout=grid&position=2&type=item&tracking_id=9ed9eb41-7aaf-4f9e-b17e-c48329c23f88",
-            "es_dueno": false
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_603495-MLU107787138200_032026-E.webp",
-            "moneda": "UYU",
-            "precio": "17.900",
-            "titulo": "Alquiler Casa 2 Dormitorios Barros Blancos",
-            "detalles": "2 dorm. | 1 baño | 60 m² totales",
-            "area_m2": "60 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1203405184-alquiler-casa-2-dormitorios-barros-blancos-_JM#polycard_client=search-desktop&search_layout=grid&position=1&type=item&float_highlight=recent_publication&tracking_id=9ed9eb41-7aaf-4f9e-b17e-c48329c23f88",
-            "es_dueno": false
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_808753-MLU80859713832_122024-E.webp",
-            "moneda": "UYU",
-            "precio": "16.000",
-            "titulo": "Alquiler Casa 2 Dormitorios - Barros Blancos",
-            "detalles": "2 dorm. | 1 baño | 200 m² totales",
-            "area_m2": "200 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1219998218-alquiler-casa-2-dormitorios-barros-blancos-_JM#polycard_client=search-desktop&search_layout=grid&position=4&type=item&float_highlight=recent_publication&tracking_id=9ed9eb41-7aaf-4f9e-b17e-c48329c23f88",
-            "es_dueno": false
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_946042-MLU84555048320_052025-E.webp",
-            "moneda": "UYU",
-            "precio": "16.000",
-            "titulo": "Alquiler Casa Dos Dormitorios - Barros Blancos",
-            "detalles": "2 dorm. | 1 baño | 200 m² totales",
-            "area_m2": "200 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1220691776-alquiler-casa-dos-dormitorios-barros-blancos-_JM#polycard_client=search-desktop&search_layout=grid&position=5&type=item&float_highlight=recent_publication&tracking_id=9ed9eb41-7aaf-4f9e-b17e-c48329c23f88",
             "es_dueno": false
         }
     ]
