@@ -4,6 +4,8 @@ on:
   schedule:
     # Ejecutar todos los días a las 14:00 UTC (11:00 AM UTC-3 Uruguay)
     - cron: '0 14 * * *'
+    # Ejecutar todos los días a las 21:00 UTC (18:00 / 6:00 PM UTC-3 Uruguay)
+    - cron: '0 21 * * *'
   workflow_dispatch: # Permite ejecución manual desde GitHub
 
 jobs:
@@ -14,13 +16,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Espera Aleatoria (Random Delay)
-        run: |
-          # Esperar un tiempo aleatorio entre 0 y 60 minutos (0 a 3600 segundos) para simular entrada humana y ejecutarse en cualquier momento entre las 11:00 y las 12:00
-          DELAY=$((RANDOM % 3600))
-          echo "Esperando $DELAY segundos antes de ejecutar el scraper..."
-          sleep $DELAY
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
