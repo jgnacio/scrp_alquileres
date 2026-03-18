@@ -37,7 +37,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          git add alquileres.xlsx alquileres.json
+          git add alquileres.xlsx alquileres.json frontend/public/alquileres.json
           
           # Si no hay cambios, commit falla. Se usa || exit 0 para no romper el action
           git commit -m "chore: actualizacion automatica de alquileres [skip ci]" || exit 0
