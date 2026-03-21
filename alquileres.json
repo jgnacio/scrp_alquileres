@@ -1,5 +1,5 @@
 {
-    "last_updated": "20/03/2026 21:27",
+    "last_updated": "21/03/2026 14:33",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos-patio/193475435",
@@ -28,19 +28,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/hermosa-casa-en-neptunia/193437290",
-            "titulo": "Hermosa casa en neptunia",
-            "id": "193437290",
-            "detalles": "Hermosa casa en Neptunia.  Cuenta con 2 dormitorios que están en planta alta.  Planta baja: 1 baño, living comedor, con cocina integrada.  55m2 edificada 150m2 terreno  Por otras opciones visitá nuestra página web www.dubai.com.uy  Estamos para ofrecerte lo MEJOR!",
-            "moneda": "$",
-            "precio": "19.000",
-            "area_m2": "55",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.699f4d6ed4554_infocdn__wuxifdnwpuj0ids7irjabbxtmxjf3lnfpt4r0y1djpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-contenedor-en-barrio-privado-neptuniasalinas/193303248",
             "titulo": "Alquiler casa contenedor en barrio privado neptunia/salinas",
             "id": "193303248",
@@ -51,6 +38,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-1300-ALQ_968.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/duplex-en-remanso-de-neptunia-sur/193303324",
+            "titulo": "Duplex en remanso de neptunia sur",
+            "id": "193303324",
+            "detalles": "CADA UNO CONTIENE: 2 DORMITORIOS COCINA CON MUEBLE BAJO MESADA Y AÉREO  BAÑO CON CABINA PEQUEÑO PATIO AL FONDO. ENTRADA COMPARTIDA ESCUELA A 2 CUADRAS  EXONERA PEAJE.  A ESTRENAR   Por aseguradora anda o contaduría  $19000 Referencia Interna : Tera-3585",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "36",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-3585-TRA_936.jpg",
             "es_dueno": false
         },
         {
@@ -106,19 +106,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos/193521237",
-            "titulo": "Alquiler casa 2 dormitorios - barros blancos",
-            "id": "193521237",
-            "detalles": "Alquiler Casa 2 Dormitorios - Barros Blancos  Ubicada sobre Ruta 101, una de las principales áreas industriales y logísticas en el Departamento de Canelones, ubicado cerca de Montevideo y a pocos kilómetros del puerto, aeropuerto y rutas nacionales, a pasos de la ciudad de Pando. Muy buena locomoción y servicios.  La casa es un PH con 2 casass totalmente individuales, se desarrolla en dos plantas, en planta baja living comedor súper luminoso y aereado, cocina americana con mueble bajo mesada, patio exterior semi techado con prevision para instalación para lavarropa. En planta alta se encuentra 2 dormitorios, baño completo, boardilla. Cuenta con zona para dejar vehiculo y parque de uso exclusivo.  NO CUENTA CON GASTOS COMUNES! Contrato a dos años Costo $16.000   Garantias: Mapfre, Porto Seguros, Contaduría, Anda, Fideciu  No dejes de consultar!   Visita nuestra web para enterarte de todas nuestras opciones!     Coordina una visita ahora!   Visita nuestra web para enterarte de todas nuestras opciones!   Referencia Interna : Tera-402",
-            "moneda": "$",
-            "precio": "16.000",
-            "area_m2": "45",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-402-TRA_690.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/193521241",
             "titulo": "Alquiler casa dos dormitorios - barros blancos",
             "id": "193521241",
@@ -129,6 +116,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-410-TRA_729.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos/193521237",
+            "titulo": "Alquiler casa 2 dormitorios - barros blancos",
+            "id": "193521237",
+            "detalles": "Alquiler Casa 2 Dormitorios - Barros Blancos  Ubicada sobre Ruta 101, una de las principales áreas industriales y logísticas en el Departamento de Canelones, ubicado cerca de Montevideo y a pocos kilómetros del puerto, aeropuerto y rutas nacionales, a pasos de la ciudad de Pando. Muy buena locomoción y servicios.  La casa es un PH con 2 casass totalmente individuales, se desarrolla en dos plantas, en planta baja living comedor súper luminoso y aereado, cocina americana con mueble bajo mesada, patio exterior semi techado con prevision para instalación para lavarropa. En planta alta se encuentra 2 dormitorios, baño completo, boardilla. Cuenta con zona para dejar vehiculo y parque de uso exclusivo.  NO CUENTA CON GASTOS COMUNES! Contrato a dos años Costo $16.000   Garantias: Mapfre, Porto Seguros, Contaduría, Anda, Fideciu  No dejes de consultar!   Visita nuestra web para enterarte de todas nuestras opciones!     Coordina una visita ahora!   Visita nuestra web para enterarte de todas nuestras opciones!   Referencia Interna : Tera-402",
+            "moneda": "$",
+            "precio": "16.000",
+            "area_m2": "45",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-402-TRA_690.jpg",
             "es_dueno": false
         },
         {
