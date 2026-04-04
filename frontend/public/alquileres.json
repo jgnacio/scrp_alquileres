@@ -1,5 +1,5 @@
 {
-    "last_updated": "03/04/2026 21:29",
+    "last_updated": "04/04/2026 14:38",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -51,19 +51,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.192.396.V1_233.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/duplex-en-remanso-de-neptunia-sur/193303324",
-            "titulo": "Duplex en remanso de neptunia sur",
-            "id": "193303324",
-            "detalles": "CADA UNO CONTIENE: 2 DORMITORIOS COCINA CON MUEBLE BAJO MESADA Y AÉREO  BAÑO CON CABINA PEQUEÑO PATIO AL FONDO. ENTRADA COMPARTIDA ESCUELA A 2 CUADRAS  EXONERA PEAJE.  A ESTRENAR   Por aseguradora anda o contaduría  $19000 Referencia Interna : Tera-3585",
-            "moneda": "$",
-            "precio": "19.000",
-            "area_m2": "36",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-3585-TRA_936.jpg",
             "es_dueno": false
         },
         {
@@ -158,16 +145,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/193521241",
-            "titulo": "Alquiler casa dos dormitorios - barros blancos",
-            "id": "193521241",
-            "detalles": "Alquiler Casa dos Dormitorios - Barros Blancos  Ubicada sobre Ruta 101, una de las principales áreas industriales y logísticas en el Departamento de Canelones, muy cerca del Parque de las Ciencias, cerca del aeropuerto, Montevideo, la ciudad de Pando. Muy buena locomoción y servicios.  La casa es un PH con 2 casas totalmente individuales, se desarrolla en dos plantas, en planta baja living comedor súper luminoso y aireado, cocina americana con mueble bajo mesada, patio exterior semi techado con previsión para instalación para lavarropa. En planta alta se encuentra 2 dormitorios, baño completo, boardilla. Cuenta con zona para dejar vehiculo y parque de uso exclusivo.  SIN GASTOS COMUNES! Contrato a dos años Costo : $16.000  Garantías: Mapfre, Porto Seguros, Contaduría, Anda, Fideciu  No dejes de consultar!  Visita nuestra web para enterarte de todas nuestras opciones!   Coordina una visita ahora!   Visita nuestra web para enterarte de todas nuestras opciones!   Referencia Interna : Tera-410",
+            "url": "https://www.infocasas.com.uy/hermosa-casa-en-neptunia/193437290",
+            "titulo": "Hermosa casa en neptunia",
+            "id": "193437290",
+            "detalles": "Hermosa casa en Neptunia.  Cuenta con 2 dormitorios que están en planta alta.  Planta baja: 1 baño, living comedor, con cocina integrada.  55m2 edificada 150m2 terreno  Por otras opciones visitá nuestra página web www.dubai.com.uy  Estamos para ofrecerte lo MEJOR!",
             "moneda": "$",
-            "precio": "16.000",
-            "area_m2": "45",
+            "precio": "17.000",
+            "area_m2": "55",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-410-TRA_729.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.699f4d6ed4554_infocdn__wuxifdnwpuj0ids7irjabbxtmxjf3lnfpt4r0y1djpg.jpg",
             "es_dueno": false
         },
         {
@@ -181,6 +168,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-402-TRA_690.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/193521241",
+            "titulo": "Alquiler casa dos dormitorios - barros blancos",
+            "id": "193521241",
+            "detalles": "Alquiler Casa dos Dormitorios - Barros Blancos  Ubicada sobre Ruta 101, una de las principales áreas industriales y logísticas en el Departamento de Canelones, muy cerca del Parque de las Ciencias, cerca del aeropuerto, Montevideo, la ciudad de Pando. Muy buena locomoción y servicios.  La casa es un PH con 2 casas totalmente individuales, se desarrolla en dos plantas, en planta baja living comedor súper luminoso y aireado, cocina americana con mueble bajo mesada, patio exterior semi techado con previsión para instalación para lavarropa. En planta alta se encuentra 2 dormitorios, baño completo, boardilla. Cuenta con zona para dejar vehiculo y parque de uso exclusivo.  SIN GASTOS COMUNES! Contrato a dos años Costo : $16.000  Garantías: Mapfre, Porto Seguros, Contaduría, Anda, Fideciu  No dejes de consultar!  Visita nuestra web para enterarte de todas nuestras opciones!   Coordina una visita ahora!   Visita nuestra web para enterarte de todas nuestras opciones!   Referencia Interna : Tera-410",
+            "moneda": "$",
+            "precio": "16.000",
+            "area_m2": "45",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-410-TRA_729.jpg",
             "es_dueno": false
         },
         {
