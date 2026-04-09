@@ -1,6 +1,32 @@
 {
-    "last_updated": "09/04/2026 15:27",
+    "last_updated": "09/04/2026 21:42",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/neptunia-sur-lugar-soñado-1-dormitorio/193392552",
+            "titulo": "Neptunia sur lugar soñado 1 dormitorio",
+            "id": "193392552",
+            "detalles": "Hermpsa y calida propiedad ubicada en un punto privilegiado, rodeada de un entorno natural hermoso. Desarrollada en dos plantas , todo el piso de arriba es un dormitorio amplio y luninoso , en planta baja esta la cocina con plaxard en bajo mesada, el living con hogar de de alto rendimiento y el baño completo. El predio esta totalmente cercado y tiene lugar para el auto. A pocos metros del arroyo&nbsp;",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "48",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.698f47e53bdff_bfab6387-3725-453c-a143-fe7937944c4e.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos-patio/193599110",
             "titulo": "Alquiler casa 2 dormitorios barros blancos patio",
@@ -145,19 +171,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.gallito.com.uy/casa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
-            "titulo": "Casa Alquiler Patio Parrillero Montevideo iMas.uy MC...",
-            "id": "28923232",
-            "detalles": "2 Dormitorios",
-            "moneda": "$U",
-            "precio": "21.000",
-            "area_m2": "Impecable",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/6039d3a393354.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.gallito.com.uy/casa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
             "titulo": "Casa Alquiler  Montevideo iMas.uy LM ...",
             "id": "28874418",
@@ -168,6 +181,19 @@
             "tiene_telefono": true,
             "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
             "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/4e7486b758334.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.gallito.com.uy/casa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
+            "titulo": "Casa Alquiler Patio Parrillero Montevideo iMas.uy MC...",
+            "id": "28923232",
+            "detalles": "2 Dormitorios",
+            "moneda": "$U",
+            "precio": "21.000",
+            "area_m2": "Impecable",
+            "tiene_telefono": true,
+            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
+            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/6039d3a393354.jpg",
             "es_dueno": false
         },
         {
