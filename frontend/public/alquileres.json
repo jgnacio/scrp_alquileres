@@ -1,5 +1,5 @@
 {
-    "last_updated": "13/04/2026 15:20",
+    "last_updated": "13/04/2026 21:43",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -158,19 +158,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.gallito.com.uy/casa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
-            "titulo": "Casa Alquiler  Montevideo iMas.uy LM ...",
-            "id": "28874418",
-            "detalles": "2 Dormitorios",
-            "moneda": "$U",
-            "precio": "21.000",
-            "area_m2": "Impecable",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/4e7486b758334.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.gallito.com.uy/casa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
             "titulo": "Casa Alquiler Patio Parrillero Montevideo iMas.uy MC...",
             "id": "28923232",
@@ -181,6 +168,19 @@
             "tiene_telefono": true,
             "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
             "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/6039d3a393354.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.gallito.com.uy/casa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
+            "titulo": "Casa Alquiler  Montevideo iMas.uy LM ...",
+            "id": "28874418",
+            "detalles": "2 Dormitorios",
+            "moneda": "$U",
+            "precio": "21.000",
+            "area_m2": "Impecable",
+            "tiene_telefono": true,
+            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
+            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/4e7486b758334.jpg",
             "es_dueno": false
         }
     ]
