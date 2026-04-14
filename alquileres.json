@@ -1,5 +1,5 @@
 {
-    "last_updated": "13/04/2026 21:43",
+    "last_updated": "14/04/2026 15:18",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -93,16 +93,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-apartamento-2-dormitorios-a-estrenar-en-neptunia-sur/193564630",
-            "titulo": "Alquiler apartamento 2 dormitorios a estrenar en neptunia sur",
-            "id": "193564630",
-            "detalles": "Para mayor información o agendar visita por favor comunicarse apretando el botón de WhatsApp a la derecha de la pantalla.Acepta mascotas.Lugar para vehículo.Sin gastos comunes.Garantías: aseguradoras.Te presentamos este apartamento a estrenar en alquiler en Neptunia Sur, ubicado en un entorno tranquilo y agradable, ideal para quienes buscan calidad de vida y contacto con la naturaleza durante todo el año.La propiedad es totalmente nueva y está pronta para entrar. Cuenta con un cómodo living comedor, cocina funcional, baño completo y dos dormitorios, ofreciendo una distribución práctica y bien aprovechada para el día a día. Además, dispone de parrillero, ideal para disfrutar de reuniones y momentos al aire libre.Como diferencial, el inmueble acepta mascotas y cuenta con espacio para estacionar vehículo dentro del predio, brindando mayor comodidad y seguridad. Su entorno se caracteriza por ser una zona residencial tranquila, perfecta para quienes buscan alejarse del ritmo de la ciudad sin perder accesibilidad.El alquiler es de $17.000 mensuales con garantía de aseguradora, convirtiéndose en una opción accesible dentro de la zona.Una excelente oportunidad para estrenar vivienda en un entorno natural, cómodo y seguro.ACTUALMENTE HAY DOS UNIDADES IDÉNTICAS DISPONIBLES.¡Consultanos para coordinar visita!",
+            "url": "https://www.infocasas.com.uy/duplex-en-remanso-de-neptunia-sur/193303324",
+            "titulo": "Duplex en remanso de neptunia sur",
+            "id": "193303324",
+            "detalles": "CADA UNO CONTIENE: 2 DORMITORIOS COCINA CON MUEBLE BAJO MESADA Y AÉREO  BAÑO CON CABINA PEQUEÑO PATIO AL FONDO. ENTRADA COMPARTIDA ESCUELA A 2 CUADRAS  EXONERA PEAJE.  A ESTRENAR   Por aseguradora anda o contaduría  $17.000 Referencia Interna : Tera-3585",
             "moneda": "$",
             "precio": "17.000",
             "area_m2": "36",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.69c4e875e7b71_infocdn.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-3585-TRA_936.jpg",
             "es_dueno": false
         },
         {
@@ -129,6 +129,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-402-TRA_690.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
+            "titulo": "Alquiler 2 dorm. neptunia nte.",
+            "id": "193627120",
+            "detalles": "Alquiler anual, casa en Neptunia norte a media cuadra de  Av. Los Pinos. 2 dormitorios - 2 baños Cocina - Living comedor Patio al frente Patio al fondo Lugar para auto $ 15.000 gtía : Aseguradoras Acepta mascota El 80% de la casa no tiene cieloraso Coordine visita Comisión inm: (mes +iva)  Referencia Interna : Tera-4381",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "50",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_495.jpg",
             "es_dueno": false
         },
         {
@@ -168,19 +181,6 @@
             "tiene_telefono": true,
             "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-patio-parrillero-montevideo-imasuy-mc-inmuebles-28923232",
             "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/6039d3a393354.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/casa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
-            "titulo": "Casa Alquiler  Montevideo iMas.uy LM ...",
-            "id": "28874418",
-            "detalles": "2 Dormitorios",
-            "moneda": "$U",
-            "precio": "21.000",
-            "area_m2": "Impecable",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20INMOBILIARIA.MAS.%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fcasa-alquiler-montevideo-imasuy-lm-inmuebles-28874418",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x254/4e7486b758334.jpg",
             "es_dueno": false
         }
     ]
