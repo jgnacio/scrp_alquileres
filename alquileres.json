@@ -1,5 +1,5 @@
 {
-    "last_updated": "22/04/2026 21:47",
+    "last_updated": "23/04/2026 15:58",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -106,19 +106,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/se-alquila-apartamento-en-el-remanso/193649103",
-            "titulo": "Se alquila  apartamento en el remanso",
-            "id": "193649103",
-            "detalles": "2 UNIDADES DISPONIBLE   Se Alquila Apto en el Remano de Neptunia  $16000 ose y ute incluido Ubicada a 2 cuadras de la interbalnearia  1 dormitorio definido Totalmente a estrenar Garantía de depósito ( 1 mes) Mes por adelantado Más comisión inmobiliaria  Coordine su vista! Referencia Interna : Tera-4339",
-            "moneda": "$",
-            "precio": "16.000",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4339-ALQ_99.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/193521241",
             "titulo": "Alquiler casa dos dormitorios - barros blancos",
             "id": "193521241",
@@ -145,19 +132,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/se-alquila-casa-contenedor-de-1-dormitorio/193649127",
-            "titulo": "Se alquila casa contenedor de 1 dormitorio",
-            "id": "193649127",
-            "detalles": "Neptunia Norte Úbicada a 2 de la interbalnearia.  Casa Contenedor de un dormitorio a estrenar $15000 Por luc  Acepta una mascota( por el espacio) Al fondo con un pequeño patio. Ideal para persona sola o pareja. Comprobante ingresos mínimo 6 meses Referencia Interna : Tera-4391",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4391-ALQ_141.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
             "titulo": "Alquiler 2 dorm. neptunia nte.",
             "id": "193627120",
@@ -168,6 +142,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/se-alquila-casa-contenedor-de-1-dormitorio/193649127",
+            "titulo": "Se alquila casa contenedor de 1 dormitorio",
+            "id": "193649127",
+            "detalles": "Neptunia Norte Úbicada a 2 de la interbalnearia.  Casa Contenedor de un dormitorio a estrenar $15000 Por luc  Acepta una mascota( por el espacio) Al fondo con un pequeño patio. Ideal para persona sola o pareja. Comprobante ingresos mínimo 6 meses Referencia Interna : Tera-4391",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4391-ALQ_141.jpg",
             "es_dueno": false
         },
         {
@@ -220,19 +207,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.692f2e4d2d0d7_infocdn__k8p5ugriywkwp5epf1tsyrreqoq6enpeeo74bp6ijpg.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/muy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "titulo": "Muy Buen Estado, Planta Alta, luminosa!",
-            "id": "28618253",
-            "detalles": "2 Dormitorios - 1 m2",
-            "moneda": "$U",
-            "precio": "20.500",
-            "area_m2": "",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20Pallares.Bruzzone%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%20-%201%20m2%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fmuy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x253/e0232eae6b254.jpg",
             "es_dueno": false
         }
     ]
