@@ -1,6 +1,19 @@
 {
-    "last_updated": "23/04/2026 21:41",
+    "last_updated": "24/04/2026 15:13",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-con-patio-en-neptunia/193648281",
             "titulo": "Alquiler casa 2 dormitorios con patio en neptunia",
@@ -67,16 +80,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/duplex-en-remanso-de-neptunia-sur/193303324",
-            "titulo": "Duplex en remanso de neptunia sur",
-            "id": "193303324",
-            "detalles": "CADA UNO CONTIENE: 2 DORMITORIOS COCINA CON MUEBLE BAJO MESADA Y AÉREO  BAÑO CON CABINA PEQUEÑO PATIO AL FONDO. ENTRADA COMPARTIDA ESCUELA A 2 CUADRAS  EXONERA PEAJE.  A ESTRENAR   Por aseguradora anda o contaduría  $17.000 Referencia Interna : Tera-3585",
+            "url": "https://www.infocasas.com.uy/se-alquila-duplex-a-estrenar-2-dorm-en-neptunia-sur-las-2-disponibles/193386784",
+            "titulo": "Se alquila duplex a estrenar, 2 dorm. en neptunia sur. las 2 disponibles.",
+            "id": "193386784",
+            "detalles": "Se alquila casa de 2 dormitorios a estrenar.  SON 2 CASAS DISPONIBLE $17.000 cada una Desarrollada en 2 plantas Abajo estar con cocina integrada Baño con cabina para ducha Arriba 2 dormitorios Es una casa a estrenar sobre Ruta 10 Neptunia Sur 36m2 construidos Frente compartido Espacio para auto Fondo privado con parrillero Ute individual Ose compartida Sin Gastos Comunes  Comisión 1 mes de alquiler +iva Cada oficina es de propiedad y operación independiente La inmobiliaria actúa únicamente como intermediaria comercial. la asesora Fabiana Abreu desarrolla su gestión en forma independiente,  sin que la oficina asuma responsabilidad por actos individuales del mismo",
             "moneda": "$",
             "precio": "17.000",
             "area_m2": "36",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-3585-TRA_936.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.175442577_12231_463.jpg",
             "es_dueno": false
         },
         {
@@ -119,19 +132,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
-            "titulo": "Alquiler 2 dorm. neptunia nte.",
-            "id": "193627120",
-            "detalles": "Alquiler anual, casa en Neptunia norte a media cuadra de  Av. Los Pinos. 2 dormitorios - 2 baños Cocina - Living comedor Patio al frente Patio al fondo Lugar para auto $ 15.000 gtía : Aseguradoras Acepta mascota El 80% de la casa no tiene cieloraso Coordine visita Comisión inm: (mes +iva)  Referencia Interna : Tera-4381",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "50",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/se-alquila-casa-contenedor-de-1-dormitorio/193649127",
             "titulo": "Se alquila casa contenedor de 1 dormitorio",
             "id": "193649127",
@@ -142,6 +142,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4391-ALQ_141.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
+            "titulo": "Alquiler 2 dorm. neptunia nte.",
+            "id": "193627120",
+            "detalles": "Alquiler anual, casa en Neptunia norte a media cuadra de  Av. Los Pinos. 2 dormitorios - 2 baños Cocina - Living comedor Patio al frente Patio al fondo Lugar para auto $ 15.000 gtía : Aseguradoras Acepta mascota El 80% de la casa no tiene cieloraso Coordine visita Comisión inm: (mes +iva)  Referencia Interna : Tera-4381",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "50",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
             "es_dueno": false
         },
         {
@@ -168,19 +181,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4340-TRA_332.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/alquiler-apartamento-un-dormitorio-en-colonia-nicolich/193160822",
-            "titulo": "Alquiler apartamento un dormitorio en colonia nicolich",
-            "id": "193160822",
-            "detalles": "INMOBILIARIA ALQUILA:  Apartamento ubicado en Colonia Nicolich, calle Torcacitas esquina Camino de los Pinos. Cercano a Zonamerica, Aeropuerto y rutas 101 y 102.  La unidad se encuentra en Primer piso por escalera.  Cuenta con: Estar comedor Cocina integrada Un dormitorio Baño completo  Posibilidad de entrar un vehículo Predio cerrado con cámaras de seguridad. Más viviendas y oficinas en el predio  Admite mascotas. Opción de alquilar amoblado o semi-amoblado conversando el precio de alquiler.  ALQUILER: $13.000 GASTOS COMUNES: $500 GARANTIAS: LUC, se evalúa perfil  Comisión inmobiliaria un mes mas IVA que se puede abonar en cuotas, CONSULTE.  Somos Agentes Oficiales de Porto Seguro y Fideciu, no dude tramitar su garantía con nosotros sin compromiso ni costo previo ni adicional.  Consultas y visitas por el 0-9-3- 3-0-4- 9-9-4 whatsapp preferentemente.  *Esta propiedad no admite mascotas",
-            "moneda": "$",
-            "precio": "13.000",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.692f2d3e1fcc9_infocdn__uqurdqwyonklcpwj9ug9up8wcnq2yugpns6ylm14jpg.jpg",
             "es_dueno": false
         },
         {
