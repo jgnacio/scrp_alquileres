@@ -1,6 +1,19 @@
 {
-    "last_updated": "24/04/2026 21:43",
+    "last_updated": "25/04/2026 14:50",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-con-patio-en-neptunia/193648281",
             "titulo": "Alquiler casa 2 dormitorios con patio en neptunia",
@@ -116,19 +129,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176366570_ALB-402-TRA_690.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/se-alquila-casa-contenedor-de-1-dormitorio/193649127",
-            "titulo": "Se alquila casa contenedor de 1 dormitorio",
-            "id": "193649127",
-            "detalles": "Neptunia Norte Úbicada a 2 de la interbalnearia.  Casa Contenedor de un dormitorio a estrenar $15000 Por luc  Acepta una mascota( por el espacio) Al fondo con un pequeño patio. Ideal para persona sola o pareja. Comprobante ingresos mínimo 6 meses Referencia Interna : Tera-4391",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4391-ALQ_141.jpg",
             "es_dueno": false
         },
         {
