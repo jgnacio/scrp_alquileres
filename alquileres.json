@@ -1,5 +1,5 @@
 {
-    "last_updated": "27/04/2026 15:51",
+    "last_updated": "27/04/2026 21:54",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-con-patio-en-neptunia/193648281",
@@ -59,7 +59,7 @@
             "id": "193415003",
             "detalles": "Apartamento en Alquiler - 1 Dormitorio - Jardín - Neptunia, Canelones  Se encuentra próximo a Ruta y Arroyo Tropa Vieja.  El acceso es por camino amplio y compartido. Se distribuye en dos plantas. Planta baja:  Living comedor con cocina integrada y baño. Volanta alta dormitorio super cómodo ya amplio.   Garantías de Deposito, Seguros y se Puede evaluar LUC. ***Inmobiliaria González Carril",
             "moneda": "$",
-            "precio": "17.500",
+            "precio": "17.000",
             "area_m2": "40",
             "tiene_telefono": false,
             "whatsapp_link": "",
@@ -171,16 +171,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.gallito.com.uy/muy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "titulo": "Muy Buen Estado, Planta Alta, luminosa!",
-            "id": "28618253",
-            "detalles": "2 Dormitorios - 1 m2",
-            "moneda": "$U",
-            "precio": "20.500",
-            "area_m2": "",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20Pallares.Bruzzone%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%20-%201%20m2%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fmuy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x253/e0232eae6b254.jpg",
+            "url": "https://www.infocasas.com.uy/apartamento-en-alquiler-en-colonia-nicolich/193680787",
+            "titulo": "Apartamento en alquiler en colonia nicolich",
+            "id": "193680787",
+            "detalles": "INMOBILIARIA ALQUILA:  Apartamento monoambiente ubicado en zona Colonia Nicolich, Camino de las Torcacitas y Camino de los Pinos.  La unidad se encuentra en tercer piso por escalera.  Cuenta con: Estar amplio con puerta corrediza Cocina integrada con muebles bajo y sobre mesada. Baño completo con mampara.  Posibilidad de ingresar un Vehiculo. En predio cerrado con más unidades de vivienda y oficinas, seguridad 24 horas y cámaras de seguridad. Ideal para persona SOLA, máximo pareja o dos personas.  ALQUILER: $9.500 GASTOS COMUNES: $500 GARANTIAS: LUC pago de alquiler a mes adelantado. Para la reserva/ingreso: Pago de comisión inmobiliaria un mes más IVA Se mira actividad laboral/ingresos.  Comisión inmobiliaria un mes mas IVA que se puede abonar en cuotas, CONSULTE.  Somos Agentes Oficiales de Porto Seguro y Fideciu, no dude tramitar su garantía con nosotros sin compromiso ni costo previo ni adicional.  Consultas y visitas por el 0-9-3- 3-0-4- 9-9-4 whatsapp preferentemente.  *Esta propiedad no admite mascotas preferentemente.",
+            "moneda": "$",
+            "precio": "10.500",
+            "area_m2": "20",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69efa35cc205d_infocdn__rv5ikr1icaz3u8bzewx1umhun638ycbsmxo3vh3ijpg.jpg",
             "es_dueno": false
         }
     ]
