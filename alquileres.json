@@ -1,5 +1,5 @@
 {
-    "last_updated": "30/04/2026 15:48",
+    "last_updated": "30/04/2026 21:54",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos-patio/193684810",
@@ -25,6 +25,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-1300-ALQ_968.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/casa-en-alquiler-neptunia-sur-a-1-cuadra-de-la-playa/193695115",
+            "titulo": "Casa en alquiler neptunia sur a 1 cuadra de la playa",
+            "id": "193695115",
+            "detalles": "? ALQUILER EN NEPTUNIA SUR A PASOS DE LA PLAYA ? Ideal para parejas, personas solas o quienes buscan tranquilidad y espacio verde  ? Alquiler: $18.000  ? Excelente ubicación en Neptunia Sur, a solo 1 cuadra de la playa y del Club Neptunia, en una zona súper tranquila y con locomoción en la esquina.  ✨ Una opción perfecta para quienes buscan vivir cerca del mar, con comodidad, privacidad y amplio espacio exterior.  ? La propiedad cuenta con:  ✔ 1 dormitorio ✔ Living-comedor con cocina integrada ✔ 1 baño ✔ Fondo privado ✔ Gran jardín al frente ✔ Entrada para varios autos ✔ Predio amplio y muy disfrutable  ? Ideal para personas con mascotas gracias a su gran espacio exterior.  ? Parada de ómnibus en la esquina, con excelente conectividad.  ? Entorno tranquilo, natural y a pasos de la playa, ideal para disfrutar todo el año.  ? Garantías aceptadas:  • ANDA • Contaduría • Aseguradoras  ? Consultanos para coordinar visita. INMOBILIARIA DE LA COSTA  ¡Propiedades en esta ubicación y valor se alquilan muy rápido!",
+            "moneda": "$",
+            "precio": "18.000",
+            "area_m2": "55",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69f3bcb374cf3_infocdn__3mz5upxdztddhvbf76slea2zhebpeuuap71ifsyxjpg.jpg",
             "es_dueno": false
         },
         {
@@ -168,19 +181,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.692f2e4d2d0d7_infocdn__k8p5ugriywkwp5epf1tsyrreqoq6enpeeo74bp6ijpg.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/muy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "titulo": "Muy Buen Estado, Planta Alta, luminosa!",
-            "id": "28618253",
-            "detalles": "2 Dormitorios - 1 m2",
-            "moneda": "$U",
-            "precio": "20.500",
-            "area_m2": "",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20Pallares.Bruzzone%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%20-%201%20m2%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fmuy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x253/e0232eae6b254.jpg",
             "es_dueno": false
         }
     ]
