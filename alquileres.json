@@ -1,19 +1,6 @@
 {
-    "last_updated": "03/05/2026 21:37",
+    "last_updated": "04/05/2026 16:04",
     "data": [
-        {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos-patio/193684810",
-            "titulo": "Alquiler casa 2 dormitorios barros blancos patio",
-            "id": "193684810",
-            "detalles": "Corredor Responsable:  -  Contacto: Moriana Pena ALQUILER CASA 2 DORMITORIOS BARROS BLANCOS CON GRAN FONDO Y PARRILLERO   - 2 dormitorios amplios   - Living con aire acondicionado.  - Comedor - Cocina   - Baño actualizado - Deposito con buen espacio de guardado anexado a la propiedad. - Espacio techado con espacio para colocar lavarropa.  - Gran patio trasero con parrillero  - 2 depósitos extra hacia el fondo  - Cuenta con sistema de cámaras instalado en toda la propiedad, falta solamente activación.    La propiedad se encuentra sobre Los Higuerones esq. Los Álamos, es amplia y con buena distribución, excelente iluminación natural y ventilación. Tanto el dormitorio principal como el living dan al frente y tienen postigones de madera en las ventanas.   Todos los cerramientos tienen reja.  Piso de cerámica en dormitorios y baño y de baldosas en living, la cocina y el comedor    Se aceptan mascotas.  Garantía: aseguradora.  Costo del contrato: un mes de alquiler más IVA.  Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-            "moneda": "$",
-            "precio": "20.000",
-            "area_m2": "405",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.228.42.V2_648.jpg",
-            "es_dueno": false
-        },
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-de-dos-dormitorios-en-barros-blancos/193699300",
             "titulo": "Alquiler casa de dos dormitorios en barros blancos",
@@ -25,6 +12,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.309.49_386.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blancos-patio/193684810",
+            "titulo": "Alquiler casa 2 dormitorios barros blancos patio",
+            "id": "193684810",
+            "detalles": "Corredor Responsable:  -  Contacto: Moriana Pena ALQUILER CASA 2 DORMITORIOS BARROS BLANCOS CON GRAN FONDO Y PARRILLERO   - 2 dormitorios amplios   - Living con aire acondicionado.  - Comedor - Cocina   - Baño actualizado - Deposito con buen espacio de guardado anexado a la propiedad. - Espacio techado con espacio para colocar lavarropa.  - Gran patio trasero con parrillero  - 2 depósitos extra hacia el fondo  - Cuenta con sistema de cámaras instalado en toda la propiedad, falta solamente activación.    La propiedad se encuentra sobre Los Higuerones esq. Los Álamos, es amplia y con buena distribución, excelente iluminación natural y ventilación. Tanto el dormitorio principal como el living dan al frente y tienen postigones de madera en las ventanas.   Todos los cerramientos tienen reja.  Piso de cerámica en dormitorios y baño y de baldosas en living, la cocina y el comedor    Se aceptan mascotas.  Garantía: aseguradora.  Costo del contrato: un mes de alquiler más IVA.  Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "20.000",
+            "area_m2": "405",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.228.42.V2_648.jpg",
             "es_dueno": false
         },
         {
@@ -194,19 +194,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69efa35cc205d_infocdn__rv5ikr1icaz3u8bzewx1umhun638ycbsmxo3vh3ijpg.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.gallito.com.uy/muy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "titulo": "Muy Buen Estado, Planta Alta, luminosa!",
-            "id": "28618253",
-            "detalles": "2 Dormitorios - 1 m2",
-            "moneda": "$U",
-            "precio": "20.500",
-            "area_m2": "",
-            "tiene_telefono": true,
-            "whatsapp_link": "https://wa.me/{0}?text=Hola%20Pallares.Bruzzone%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%3A%20%202%20Dormitorios%20-%201%20m2%2C%20https%3A%2F%2Fwww.gallito.com.uy%2Fmuy-buen-estado-planta-alta-luminosa-inmuebles-28618253",
-            "imagen_url": "https://imagenes.gallito.com/rinmu/sinblanco/338x253/e0232eae6b254.jpg",
             "es_dueno": false
         }
     ]
