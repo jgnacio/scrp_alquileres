@@ -1,6 +1,19 @@
 {
-    "last_updated": "16/05/2026 21:43",
+    "last_updated": "17/05/2026 21:52",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-con-patio-en-neptunia/193709136",
             "titulo": "Alquiler casa 2 dormitorios con patio en neptunia",
@@ -54,19 +67,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-de-dos-dormitorios-en-barros-blancos/193701357",
-            "titulo": "Alquiler casa de dos dormitorios en barros blancos",
-            "id": "193701357",
-            "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Alquiler de casa de dos dormitorios con patio y cochera en Pando.  La propiedad se encuentra ubicada sobre Camino al Paso Escobar, a pocas cuadras de Ruta 8 (km 23.500), en una zona de fácil acceso.  Se desarrolla en un padrón amplio que cuenta con tres casas independientes. La unidad en alquiler ofrece total independencia, con entrada propia.  Cuenta con un terreno totalmente cercado, amplio patio al frente y al fondo, parrillero y espacio para ingresar varios vehículos.  La casa está totalmente reciclada. Dispone de living comedor, dos dormitorios, baño completo y cocina definida. Es una propiedad cómoda y luminosa, con todas sus aberturas protegidas con rejas.  No dude en coordinar su visita. Garantías aceptadas: aseguradoras.  Compartimos con todos los colegas. Comisión inmobiliaria: un mes de alquiler + IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-            "moneda": "$",
-            "precio": "17.000",
-            "area_m2": "102",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.139.V1_740.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-en-neptunia-un-dormitorio/193608477",
             "titulo": "Alquiler casa en neptunia un dormitorio",
             "id": "193608477",
@@ -103,19 +103,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-un-dormitorio-en-barros-blancos/193699305",
-            "titulo": "Alquiler casa un dormitorio en barros blancos",
-            "id": "193699305",
-            "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Alquiler casa de un dormitorio con patio en Barros Blancos  Se alquila linda casa de un dormitorio con estacionamiento y parrillero en Barros Blancos.  La propiedad se encuentra ubicada sobre Camino al Paso Escobar, a pocas cuadras de Ruta 8 (km 23.500), en una zona de fácil acceso.  Se desarrolla en un padrón amplio que cuenta con tres casas independientes. La unidad en alquiler ofrece total independencia, con entrada propia.  Cuenta con un ambiente amplio y muy luminoso, cocina definida y baño completo de generosas dimensiones. Desde la cocina se accede a un pasillo que conduce a un gran fondo verde con parrillero.  Se trata de una casa totalmente refaccionada, con todas sus aberturas protegidas con rejas.  No dude en coordinar su visita.  Garantía aceptada: aseguradora.  Compartimos con todos los colegas. Comisión inmobiliaria un mes de alquiler mas IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-            "moneda": "$",
-            "precio": "14.500",
-            "area_m2": "82",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.138.V1_853.jpg",
             "es_dueno": false
         },
         {
