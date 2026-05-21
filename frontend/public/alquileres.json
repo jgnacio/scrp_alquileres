@@ -1,5 +1,5 @@
 {
-    "last_updated": "20/05/2026 22:22",
+    "last_updated": "21/05/2026 22:17",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -12,6 +12,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
+            "titulo": "Onex alquila ph en neptunia sur",
+            "id": "193728253",
+            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $21.000 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
             "es_dueno": false
         },
         {
@@ -28,19 +41,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/se-alquila-casa-de-1-dormitorio-en-neptunia-sur/193769706",
-            "titulo": "Se alquila casa de 1 dormitorio en neptunia sur",
-            "id": "193769706",
-            "detalles": "Corredor Responsable:  -  Contacto: Andrea Ayala Se alquila casa de 1 dormitorio en Neptunia Sur. Rodeada de un ambiente sereno, tranquilo  y verde ubicamos este hermoso inmueble. Con amplia estufa a leña y  luminoso. El inmueble está distribuido de la siguiente manera:  Un Porche: Al entrar te recibe un porche de aproximadamente 12 m2 . Un  Living/comedor: amplio, acogedor, acompañado de una hermosa y grande estufa a leña lo que te permite tener un espacio propicio para disfrutar del invierno.    Un  baño ubicado en el área del Living de muy buenas dimensiones.  Una cocina:  espaciosa y cómoda. Y por último pero no menos importante el dormitorio con una ventana que colinda con el porche, de allí la fuente de luz que ilumina al mismo.  El inmueble es un espacio seguro, rodeado de árboles y tranquilo a pocos metros de la IB, cerca de parada de ómnibus, 2 cuadras de Estación de Servicio, pollería , Pizzería y otros. Está completamente cercado y puedes estacionar tu vehículo adentro de la propiedad.   Que esperas ven a verla. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-            "moneda": "$",
-            "precio": "19.000",
-            "area_m2": "65",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.14.14.9_169.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-contenedor-en-barrio-privado-neptuniasalinas/193303248",
             "titulo": "Alquiler casa contenedor en barrio privado neptunia/salinas",
             "id": "193303248",
@@ -54,6 +54,19 @@
             "es_dueno": false
         },
         {
+            "url": "https://www.infocasas.com.uy/se-alquila-casa-de-1-dormitorio-en-neptunia-sur/193769706",
+            "titulo": "Se alquila casa de 1 dormitorio en neptunia sur",
+            "id": "193769706",
+            "detalles": "Corredor Responsable:  -  Contacto: Andrea Ayala Se alquila casa de 1 dormitorio en Neptunia Sur. Rodeada de un ambiente sereno, tranquilo  y verde ubicamos este hermoso inmueble. Con amplia estufa a leña y  luminoso. El inmueble está distribuido de la siguiente manera:  Un Porche: Al entrar te recibe un porche de aproximadamente 12 m2 . Un  Living/comedor: amplio, acogedor, acompañado de una hermosa y grande estufa a leña lo que te permite tener un espacio propicio para disfrutar del invierno.    Un  baño ubicado en el área del Living de muy buenas dimensiones.  Una cocina:  espaciosa y cómoda. Y por último pero no menos importante el dormitorio con una ventana que colinda con el porche, de allí la fuente de luz que ilumina al mismo.  El inmueble es un espacio seguro, rodeado de árboles y tranquilo a pocos metros de la IB, cerca de parada de ómnibus, 2 cuadras de Estación de Servicio, pollería , Pizzería y otros. Está completamente cercado y puedes estacionar tu vehículo adentro de la propiedad.   Que esperas ven a verla. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "65",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.14.14.9_169.jpg",
+            "es_dueno": false
+        },
+        {
             "url": "https://www.infocasas.com.uy/se-alquila-en-neptunia-surun-dormitorio/193303255",
             "titulo": "Se alquila en neptunia sur,un dormitorio",
             "id": "193303255",
@@ -64,19 +77,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-3891-ALQ_473.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-en-colonia-nicolich/191110645",
-            "titulo": "Alquiler casa 2 dormitorios en colonia nicolich",
-            "id": "191110645",
-            "detalles": "ALQUILER ANUAL DOS DORMITORIOS EMPALME NICOLICH&nbsp;&nbsp;&nbsp;&nbsp;Se alquila casa a 2 cuadras de la Ruta 101 y 3 cuadras de la Ruta 102.La casa cuenta con:- Living comedor- 1 baño definido- 2 dormitoriosGARANTÍAS DE ALQUILER: ANDA, CGN, ASEGURADORAS, DEPÓSITOPRECIO ALQUILER $18.000Honorarios inmobiliarios: 1 mes de alquiler + IVA (hasta en 12 cuotas con tarjeta de crédito)Asesor Inmobiliario - Andrea DomínguezInmobiliaria INNOVAR        La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-            "moneda": "$",
-            "precio": "18.000",
-            "area_m2": "60",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.66937a54d3a8a_infocdn.jpg",
             "es_dueno": false
         },
         {
@@ -106,16 +106,29 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-contenedor-1-dormitorio-remanso-de-neptunia/191074622",
-            "titulo": "Alquiler casa contenedor 1 dormitorio remanso de neptunia",
-            "id": "191074622",
-            "detalles": "Alquiler Casa Contenedor Muy Luminoso en Remanso de Neptunia                    Contenedor ubicado a 1 cuadra del arroyo y a 2 cuadras de la Interbalnearia.La misma cuenta con:1 dormitorio con piso flotantecocina comedor con porcelanatobaño completo revestido en yeso y porcelanatocielo raso pvc, aislante térmicoRejas en todas las aberturasEntrada independienteCuenta con Instalación para lavarropasGarantia:AndaContaduríaAseguradoras* Precio: $16.500Honorarios Inmobiliarios: 1 mes de alquiler+ IVA (hasta 12 cuotas con tarjeta de crédito)Asesor Inmobiliario - Sheila GoimilInmobiliaria INNOVARLa presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "url": "https://www.infocasas.com.uy/apartamento-duplex-en-alquiler-1-dormitorio-neptunia/193415003",
+            "titulo": "Apartamento duplex  en alquiler - 1 dormitorio - neptunia",
+            "id": "193415003",
+            "detalles": "Apartamento en Alquiler - 1 Dormitorio - Jardín - Neptunia, Canelones  Se encuentra próximo a Ruta y Arroyo Tropa Vieja.  El acceso es por camino amplio y compartido. Se distribuye en dos plantas. Planta baja:  Living comedor con cocina integrada y baño. Volanta alta dormitorio super cómodo ya amplio.   Garantías de Deposito, Seguros y se Puede evaluar LUC. ***Inmobiliaria González Carril",
             "moneda": "$",
-            "precio": "16.500",
-            "area_m2": "29",
+            "precio": "16.000",
+            "area_m2": "40",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.667d69ae3c94b_infocdn.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69977a30cbc19_infocdn__epr4ey5rxhwpx7c5mi8uusjxdnav5v2rq9iowdumjpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-1-dormitorio-en-complejo-cerrado-colonia-nicolich/193775027",
+            "titulo": "Alquiler 1 dormitorio en complejo cerrado - colonia nicolich",
+            "id": "193775027",
+            "detalles": "¡Nuevo complejo cerrado en Colonia Nicolich! Viví en una zona tranquila y con excelente ubicación, próximo al Aeropuerto, en un moderno complejo de contenedores diseñado para brindar comodidad, seguridad y practicidad.? Unidades de 1 dormitorio Complejo cerrado Parrillero individual Lugar para auto Diseño moderno y funcional Ideal para una o dos personas Ubicado en Colonia Nicolich, Canelones, a minutos del Aeropuerto y con rápido acceso a servicios y locomoción. Alquiler mensual: $15.900 Gastos comunes: $1.000Una opción accesible, cómoda y segura para vivir. (CW250513)",
+            "moneda": "$",
+            "precio": "15.900",
+            "area_m2": "40",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.244_CW250513_168.jpg",
             "es_dueno": false
         },
         {
