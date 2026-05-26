@@ -1,5 +1,5 @@
 {
-    "last_updated": "25/05/2026 22:04",
+    "last_updated": "26/05/2026 17:29",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-con-patio-en-neptunia/193764309",
@@ -15,19 +15,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/se-alquila-casa-de-1-dormitorio-en-neptunia-sur/193769706",
-            "titulo": "Se alquila casa de 1 dormitorio en neptunia sur",
-            "id": "193769706",
-            "detalles": "Corredor Responsable:  -  Contacto: Andrea Ayala Se alquila casa de 1 dormitorio en Neptunia Sur. Rodeada de un ambiente sereno, tranquilo  y verde ubicamos este hermoso inmueble. Con amplia estufa a leña y  luminoso. El inmueble está distribuido de la siguiente manera:  Un Porche: Al entrar te recibe un porche de aproximadamente 12 m2 . Un  Living/comedor: amplio, acogedor, acompañado de una hermosa y grande estufa a leña lo que te permite tener un espacio propicio para disfrutar del invierno.    Un  baño ubicado en el área del Living de muy buenas dimensiones.  Una cocina:  espaciosa y cómoda. Y por último pero no menos importante el dormitorio con una ventana que colinda con el porche, de allí la fuente de luz que ilumina al mismo.  El inmueble es un espacio seguro, rodeado de árboles y tranquilo a pocos metros de la IB, cerca de parada de ómnibus, 2 cuadras de Estación de Servicio, pollería , Pizzería y otros. Está completamente cercado y puedes estacionar tu vehículo adentro de la propiedad.   Que esperas ven a verla. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-            "moneda": "$",
-            "precio": "19.000",
-            "area_m2": "65",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.14.14.9_169.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-contenedor-en-barrio-privado-neptuniasalinas/193303248",
             "titulo": "Alquiler casa contenedor en barrio privado neptunia/salinas",
             "id": "193303248",
@@ -38,6 +25,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-1300-ALQ_968.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/se-alquila-casa-de-1-dormitorio-en-neptunia-sur/193769706",
+            "titulo": "Se alquila casa de 1 dormitorio en neptunia sur",
+            "id": "193769706",
+            "detalles": "Corredor Responsable:  -  Contacto: Andrea Ayala Se alquila casa de 1 dormitorio en Neptunia Sur. Rodeada de un ambiente sereno, tranquilo  y verde ubicamos este hermoso inmueble. Con amplia estufa a leña y  luminoso. El inmueble está distribuido de la siguiente manera:  Un Porche: Al entrar te recibe un porche de aproximadamente 12 m2 . Un  Living/comedor: amplio, acogedor, acompañado de una hermosa y grande estufa a leña lo que te permite tener un espacio propicio para disfrutar del invierno.    Un  baño ubicado en el área del Living de muy buenas dimensiones.  Una cocina:  espaciosa y cómoda. Y por último pero no menos importante el dormitorio con una ventana que colinda con el porche, de allí la fuente de luz que ilumina al mismo.  El inmueble es un espacio seguro, rodeado de árboles y tranquilo a pocos metros de la IB, cerca de parada de ómnibus, 2 cuadras de Estación de Servicio, pollería , Pizzería y otros. Está completamente cercado y puedes estacionar tu vehículo adentro de la propiedad.   Que esperas ven a verla. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "65",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.14.14.9_169.jpg",
             "es_dueno": false
         },
         {
@@ -76,7 +76,7 @@
             "area_m2": "40",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69977a30cbc19_infocdn__epr4ey5rxhwpx7c5mi8uusjxdnav5v2rq9iowdumjpg.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.69977a31ee157_infocdn__csijbxrvfsedaysgsidmdauxhnsrw4nnmzqmwmyojpg.jpg",
             "es_dueno": false
         },
         {
