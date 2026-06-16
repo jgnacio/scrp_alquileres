@@ -1,5 +1,5 @@
 {
-    "last_updated": "15/06/2026 22:59",
+    "last_updated": "16/06/2026 18:30",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -116,6 +116,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.ca9e5fd5aad6a38cc8e8e7624ca400e2ee3e6c3a.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
+            "titulo": "Alquiler casa de 1 dormitorio en neptunia",
+            "id": "193878393",
+            "detalles": "Descubra esta encantadora casa de un dormitorio, estratégicamente ubicada sobre la Ruta 10. La propiedad cuenta con un luminoso living, un baño completo y una cocina funcional, complementados por un práctico fondo. Ideal para quienes buscan comodidad y accesibilidad. Se requiere garantía SURA o Santander, con un valor de $15.000.",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "33",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
             "es_dueno": false
         },
         {
