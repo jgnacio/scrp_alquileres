@@ -1,45 +1,6 @@
 {
-    "last_updated": "16/06/2026 22:51",
+    "last_updated": "17/06/2026 16:57",
     "data": [
-        {
-            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
-            "titulo": "Casita a una cuadra del arroyo pando",
-            "id": "193060994",
-            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "70",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
-            "titulo": "Onex alquila ph en neptunia sur",
-            "id": "193728253",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $21.000 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
-            "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
-            "id": "193818874",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa. APTO 3 ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $21.000 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo) ???? Garantías: ANDA, CGN o aseguradoras ???? Comisión inmobiliaria: 1 mes + IVA ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4571",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
-            "es_dueno": false
-        },
         {
             "url": "https://www.infocasas.com.uy/monoambiente-en-alquiler-casa-en-neptunia-con-chimenea-y-jardin/193800861",
             "titulo": "Monoambiente en alquiler | casa en neptunia con chimenea y jardín",
@@ -119,19 +80,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
-            "titulo": "Alquiler casa de 1 dormitorio en neptunia",
-            "id": "193878393",
-            "detalles": "Descubra esta encantadora casa de un dormitorio, estratégicamente ubicada sobre la Ruta 10. La propiedad cuenta con un luminoso living, un baño completo y una cocina funcional, complementados por un práctico fondo. Ideal para quienes buscan comodidad y accesibilidad. Se requiere garantía SURA o Santander, con un valor de $15.000.",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "33",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
             "titulo": "Alquiler 2 dorm. neptunia nte.",
             "id": "193627120",
@@ -145,6 +93,19 @@
             "es_dueno": false
         },
         {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
+            "titulo": "Alquiler casa de 1 dormitorio en neptunia",
+            "id": "193878393",
+            "detalles": "Descubra esta encantadora casa de un dormitorio, estratégicamente ubicada sobre la Ruta 10. La propiedad cuenta con un luminoso living, un baño completo y una cocina funcional, complementados por un práctico fondo. Ideal para quienes buscan comodidad y accesibilidad. Se requiere garantía SURA o Santander, con un valor de $15.000.",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "33",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
+            "es_dueno": false
+        },
+        {
             "url": "https://www.infocasas.com.uy/sta-teresita-ruta-1011d1b/193876657",
             "titulo": "Sta teresita- ruta 101-1d-1b",
             "id": "193876657",
@@ -155,19 +116,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.91_PFS-15944-TRA_479.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/se-alquila-monoambiente-en-el-remanso-d-e-neptunia/193649110",
-            "titulo": "Se alquila monoambiente  en el remanso d e neptunia",
-            "id": "193649110",
-            "detalles": "2 UNIDADES DISPONIBLE   Se Alquila Monoambienteen el Remano de Neptunia  $14000 ose y ute incluido Ubicada a 2 cuadras de la interbalnearia  Totalmente a estrenar Garantía de depósito ( 1 mes) Mes por adelantado Más comisión inmobiliaria  Coordine su vista! Referencia Interna : Tera-4340",
-            "moneda": "$",
-            "precio": "14.000",
-            "area_m2": "20",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4340-TRA_332.jpg",
             "es_dueno": false
         },
         {
