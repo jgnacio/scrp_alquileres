@@ -1,5 +1,5 @@
 {
-    "last_updated": "23/06/2026 22:09",
+    "last_updated": "24/06/2026 16:25",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -64,6 +64,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a15fd6dbd2b3_infocdn__nbzibjicyyldpw9fweg31tfkd9edcbuoklbrgpuajpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/193910624",
+            "titulo": "Alquiler casa dos dormitorios barros blancos",
+            "id": "193910624",
+            "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Se alquila casa de dos dormitorios con cochera en Barros Blancos.  La propiedad se encuentra ubicada sobre calle Los Aromos, km 23 de Ruta 8, dentro de un predio totalmente cerrado donde se desarrollan otras tres viviendas.  Al ingresar, cuenta con una cocina comedor semi definida mediante barra desayunadora, espaciosa y con buena iluminación natural. La cocina cuenta con muebles aéreos y bajo mesada, todo en excelente estado de conservación.  La vivienda cuenta con dos dormitorios amplios, uno orientado al frente y otro al contrafrente, ambos con ventanas y buena ventilación. Baño completo de cómodas dimensiones.  Además, dispone de espacio para estacionar un vehículo.  La propiedad se encuentra en buen estado de conservación y pronta para habitar.  Garantías aceptadas: aseguradoras.  Compartimos con todos los colegas. Costo de contrato: un mes de alquiler más IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "100",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.157_874.jpg",
             "es_dueno": false
         },
         {
