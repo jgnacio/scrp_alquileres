@@ -1,5 +1,5 @@
 {
-    "last_updated": "25/06/2026 16:29",
+    "last_updated": "25/06/2026 22:18",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/apartamento-en-alquiler-en-neptunia/193899656",
@@ -129,6 +129,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.ca9e5fd5aad6a38cc8e8e7624ca400e2ee3e6c3a.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-apartamento-un-dormitorio-amueblado-en-colonia-nicolich/193917295",
+            "titulo": "Alquiler apartamento un dormitorio amueblado en colonia nicolich",
+            "id": "193917295",
+            "detalles": "INMOBILIARIA ALQUILA:  Apartamento ubicado en Colonia Nicolich, calle Cno. de las Torcacitas esquina Cno. de los Pinos, a 300 mts de ruta 102  La unidad se encuentra completamente AMOBLADA  Cuenta con: Estar comedor Cocina integrada Un dormitorio con aire acondicionado Baño completo Derecho a estacionar un vehículo  ALQUILER: $15.500 GASTOS COMUNES: $500 GARANTIAS: LUC + MES DE DEPÓSITO POR MOBILIARIO.  Comisión inmobiliaria un mes mas IVA que se puede abonar en cuotas, CONSULTE.  Somos Agentes Oficiales de Porto Seguro y Fideciu, no dude tramitar su garantía con nosotros sin compromiso ni costo previo ni adicional.  Consultas y visitas por el 0-9-3- 3-0-4- 9-9-4 whatsapp O ***llamadas.   *Esta propiedad no admite mascotas.",
+            "moneda": "$",
+            "precio": "15.500",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a3d6278da0ea_infocdn__mmacg7yto87gcse7ku5aomgpjvzxtvdr7klzu8vrjpg.jpg",
             "es_dueno": false
         },
         {
