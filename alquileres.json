@@ -1,6 +1,19 @@
 {
-    "last_updated": "26/06/2026 22:08",
+    "last_updated": "27/06/2026 15:19",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/apartamento-en-alquiler-en-neptunia/193899656",
             "titulo": "Apartamento en alquiler en neptunia",
@@ -28,19 +41,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
-            "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
-            "id": "193818874",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa. APTO 3 ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo) ???? Garantías: ANDA, CGN o aseguradoras ???? Comisión inmobiliaria: 1 mes + IVA ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4571",
-            "moneda": "$",
-            "precio": "19.500",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
             "titulo": "Onex alquila ph en neptunia sur",
             "id": "193728253",
@@ -51,6 +51,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
+            "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
+            "id": "193818874",
+            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa. APTO 3 ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo) ???? Garantías: ANDA, CGN o aseguradoras ???? Comisión inmobiliaria: 1 mes + IVA ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4571",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
             "es_dueno": false
         },
         {
