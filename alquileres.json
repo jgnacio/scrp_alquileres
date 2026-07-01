@@ -1,5 +1,5 @@
 {
-    "last_updated": "30/06/2026 22:13",
+    "last_updated": "01/07/2026 16:29",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/apartamento-en-alquiler-en-neptunia/193899656",
@@ -28,19 +28,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
-            "titulo": "Onex alquila ph en neptunia sur",
-            "id": "193728253",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
-            "moneda": "$",
-            "precio": "19.500",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
             "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
             "id": "193818874",
@@ -51,6 +38,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
+            "titulo": "Onex alquila ph en neptunia sur",
+            "id": "193728253",
+            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
             "es_dueno": false
         },
         {
@@ -142,6 +142,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a3d6278da0ea_infocdn__mmacg7yto87gcse7ku5aomgpjvzxtvdr7klzu8vrjpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-apto-1-dorm-ruta-101-km-30-barros-blancos/193939893",
+            "titulo": "Alquiler apto 1 dorm ruta 101 km 30 barros blancos",
+            "id": "193939893",
+            "detalles": "Corredor Responsable:  -  Contacto: Viviana Fernández Pérez Se alquila apartamento tipo casita a nuevo, entrada completamente independiente con acceso vehicular mediante portón corredizo.  Cuenta de 1 dormitorio, baño, cocina-comedor y patio con parrillero. Instalación para lavarropas.  Predio totalmente cercado.  Barrio super tranquilo y muy familiar, la calle está toda iluminada. Tan solo a 1 cuadra de distancia de la ruta 101 y parada de transporte colectivo.  Tiene vista despejada por estar en una esquina, no dudes en coordinar tu visita.  Se acepta garantía de aseguradoras.  Compartimos con todos los colegas.  Costo del contrato: 1 mes de alquiler más IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "15.500",
+            "area_m2": "200",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.192.433_807.jpg",
             "es_dueno": false
         },
         {
