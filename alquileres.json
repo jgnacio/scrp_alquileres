@@ -1,5 +1,5 @@
 {
-    "last_updated": "05/07/2026 21:57",
+    "last_updated": "06/07/2026 16:54",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/apartamento-en-alquiler-en-neptunia/193899656",
@@ -41,19 +41,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
-            "titulo": "Onex alquila ph en neptunia sur",
-            "id": "193728253",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
-            "moneda": "$",
-            "precio": "19.500",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
             "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
             "id": "193818874",
@@ -64,6 +51,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
+            "titulo": "Onex alquila ph en neptunia sur",
+            "id": "193728253",
+            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
             "es_dueno": false
         },
         {
@@ -181,6 +181,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/se-alquila-apto-en-neptunia-norte-a-2-cuadras-de-la-interbalnearia/193956012",
+            "titulo": "Se alquila apto en neptunia norte a 2 cuadras de la interbalnearia",
+            "id": "193956012",
+            "detalles": "✨ Alquiler en Neptunia Norte ✨ $ 15000  Se alquila cómodo apartamento en Neptunia Norte, con entrada compartida y predio definido, brindando privacidad y tranquilidad.  Cuenta con: ✔ 1 dormitorio ✔ Baño completo ✔ Cocina integrada ✔ Patio al fondo  Ideal para persona sola o pareja que busque comodidad y un entorno tranquilo.  ???? Garantías: • Depósito: 2 meses de depósito + mes adelantado + comisión inmobiliaria • Garantía de aseguradora  ???? Coordiná tu visita y conocelo. ¡No dejes pasar esta oportunidad! Referencia Interna : Tera-4245",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4245-ALQ_797.jpg",
             "es_dueno": false
         },
         {
