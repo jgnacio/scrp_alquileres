@@ -1,6 +1,45 @@
 {
-    "last_updated": "11/07/2026 14:59",
+    "last_updated": "11/07/2026 21:43",
     "data": [
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_715439-MLU114184948225_072026-E.webp",
+            "moneda": "UYU",
+            "precio": "20.000",
+            "titulo": "Casa En Alquiler  Neptunia Norte | $20.000",
+            "detalles": "1 dorm. | 1 baño | 48 m² totales",
+            "area_m2": "48 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1449716186-casa-en-alquiler-neptunia-norte-20000-_JM#polycard_client=search-desktop&float_highlight=recent_publication&price_drop=not_apply&be_origin=backend&search_layout=grid&position=2&type=item&tracking_id=6595fb66-20f9-45a4-a5b3-f73c0c7e62e1&sid=search",
+            "es_dueno": true
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_746985-MLU112501765986_062026-E.webp",
+            "moneda": "UYU",
+            "precio": "15.000",
+            "titulo": "Casa 1dorm Los Aromos A Extrenar C/patio Y Alero/cochera A Metros De Cno Ventura Y A Pocas Cuadras De Los Aromos Terreno Rodeado De Muros Se Acepta Seguros De Alquiler Maphre/sura/porto Xanda$18.000",
+            "detalles": "1 dorm. | 1 baño | 32 m² totales",
+            "area_m2": "32 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1442725690-casa-1dorm-los-aromos-a-extrenar-cpatio-y-alerocochera-a-metros-de-cno-ventura-y-a-pocas-cuadras-de-los-aromos-terreno-rodeado-de-muros-se-acepta-seguros-de-alquiler-maphresuraporto-xanda18000-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=1&type=item&tracking_id=6595fb66-20f9-45a4-a5b3-f73c0c7e62e1&price_drop=not_apply&sid=search",
+            "es_dueno": true
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_725606-MLU112212623840_062026-E.webp",
+            "moneda": "UYU",
+            "precio": "10.000",
+            "titulo": "Alquilo Casa 1 Dormitorio Con Parrillero En Complejo Cerrado A Metros De La Ruta 101 Km 30 Sin Gastos Comunes",
+            "detalles": "1 dorm. | 1 baño | 60 m² totales",
+            "area_m2": "60 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1435878600-alquilo-casa-1-dormitorio-con-parrillero-en-complejo-cerrado-a-metros-de-la-ruta-101-km-30-sin-gastos-comunes-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=3&type=item&tracking_id=6595fb66-20f9-45a4-a5b3-f73c0c7e62e1&price_drop=not_apply&sid=search",
+            "es_dueno": true
+        },
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
             "titulo": "Casita a una cuadra del arroyo pando",
