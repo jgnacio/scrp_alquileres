@@ -1,45 +1,6 @@
 {
-    "last_updated": "11/07/2026 21:43",
+    "last_updated": "12/07/2026 15:02",
     "data": [
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_715439-MLU114184948225_072026-E.webp",
-            "moneda": "UYU",
-            "precio": "20.000",
-            "titulo": "Casa En Alquiler  Neptunia Norte | $20.000",
-            "detalles": "1 dorm. | 1 baño | 48 m² totales",
-            "area_m2": "48 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1449716186-casa-en-alquiler-neptunia-norte-20000-_JM#polycard_client=search-desktop&float_highlight=recent_publication&price_drop=not_apply&be_origin=backend&search_layout=grid&position=2&type=item&tracking_id=6595fb66-20f9-45a4-a5b3-f73c0c7e62e1&sid=search",
-            "es_dueno": true
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_746985-MLU112501765986_062026-E.webp",
-            "moneda": "UYU",
-            "precio": "15.000",
-            "titulo": "Casa 1dorm Los Aromos A Extrenar C/patio Y Alero/cochera A Metros De Cno Ventura Y A Pocas Cuadras De Los Aromos Terreno Rodeado De Muros Se Acepta Seguros De Alquiler Maphre/sura/porto Xanda$18.000",
-            "detalles": "1 dorm. | 1 baño | 32 m² totales",
-            "area_m2": "32 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1442725690-casa-1dorm-los-aromos-a-extrenar-cpatio-y-alerocochera-a-metros-de-cno-ventura-y-a-pocas-cuadras-de-los-aromos-terreno-rodeado-de-muros-se-acepta-seguros-de-alquiler-maphresuraporto-xanda18000-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=1&type=item&tracking_id=6595fb66-20f9-45a4-a5b3-f73c0c7e62e1&price_drop=not_apply&sid=search",
-            "es_dueno": true
-        },
-        {
-            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_725606-MLU112212623840_062026-E.webp",
-            "moneda": "UYU",
-            "precio": "10.000",
-            "titulo": "Alquilo Casa 1 Dormitorio Con Parrillero En Complejo Cerrado A Metros De La Ruta 101 Km 30 Sin Gastos Comunes",
-            "detalles": "1 dorm. | 1 baño | 60 m² totales",
-            "area_m2": "60 m²",
-            "id": "",
-            "tiene_telefono": "",
-            "whatsapp_link": "",
-            "url": "https://casa.mercadolibre.com.uy/MLU-1435878600-alquilo-casa-1-dormitorio-con-parrillero-en-complejo-cerrado-a-metros-de-la-ruta-101-km-30-sin-gastos-comunes-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=3&type=item&tracking_id=6595fb66-20f9-45a4-a5b3-f73c0c7e62e1&price_drop=not_apply&sid=search",
-            "es_dueno": true
-        },
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
             "titulo": "Casita a una cuadra del arroyo pando",
@@ -93,19 +54,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
-            "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
-            "id": "193818874",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa. APTO 3 ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo) ???? Garantías: ANDA, CGN o aseguradoras ???? Comisión inmobiliaria: 1 mes + IVA ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4571",
-            "moneda": "$",
-            "precio": "19.500",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
             "titulo": "Onex alquila ph en neptunia sur",
             "id": "193728253",
@@ -116,6 +64,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
+            "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
+            "id": "193818874",
+            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa. APTO 3 ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo) ???? Garantías: ANDA, CGN o aseguradoras ???? Comisión inmobiliaria: 1 mes + IVA ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4571",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
             "es_dueno": false
         },
         {
@@ -142,6 +103,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.14.14.9.V2_318.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/casa-en-alquiler-c-cochera-en-villa-aeroparque/193981913",
+            "titulo": "Casa en alquiler c/ cochera en villa aeroparque",
+            "id": "193981913",
+            "detalles": "Casa a estrenar en alquiler, ubicada en la calle Braniff, en Villa Aeroparque. Este inmueble se encuentra a tan solo 3 cuadras de la ruta 101, ofreciendo una excelente conectividad y acceso a los principales puntos de interés de la zona. Con una superficie total de 45 m², esta propiedad incluye un dormitorio con hermoso ventanal, un baño y una cocina funcional. La orientación norte asegura una luminosidad natural durante todo el día.Diseñada para el confort, la casa está equipada con aire acondicionado, conexión para lavarropas y agua corriente. Además, cuenta con un espacio exterior que incluye un jardín, ideal para disfrutar de momentos al aire libre. La cochera descubierta proporciona comodidad y facilidad de acceso. Esta propiedad permite mascotas, lo que la convierte en una opción ideal para quienes buscan un hogar amigable y práctico.Con un alquiler mensual de UY$19.000, esta casa representa una oportunidad única para aquellos que buscan un espacio moderno y funcional. Perfecta para disfrutar de la tranquilidad de Villa Aeroparque, esta propiedad a estrenar es una opción atractiva para quienes valoran la calidad y el estilo de vida que ofrece esta zona.Alquiler: $19.000Garantías: Preferiblemente Anda, tambien pueden ser cgn o Aseguradoras ¡Llámenos para conocer más en detalle esta propiedad! Tel: ***Email: veronicaleal@inmobiliariaglobalpro.comGlobal Pro Negocios inmobiliarioshttps://www.inmobiliariaglobalpro.com/",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "45",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.376_95455_825.jpg",
             "es_dueno": false
         },
         {
