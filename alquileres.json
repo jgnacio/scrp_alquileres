@@ -1,5 +1,5 @@
 {
-    "last_updated": "12/07/2026 21:43",
+    "last_updated": "13/07/2026 16:38",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -28,19 +28,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/monoambiente-en-alquiler-casa-en-neptunia-con-chimenea-y-jardin/193800861",
-            "titulo": "Monoambiente en alquiler | casa en neptunia con chimenea y jardín",
-            "id": "193800861",
-            "detalles": "Esta encantadora cabaña en Neptunia ofrece un refugio acogedor donde cada rincón invita a la tranquilidad. Con 30 m² de espacio perfectamente distribuidos, disfrutarás de ambientes iluminados y cálidos, ideales para relajarte después de un largo día. La chimenea añade un toque especial, creando un ambiente perfecto para compartir momentos inolvidables. Además, el acceso a internet y la cocina equipada garantizan que tu comodidad esté siempre presente, mientras que la cercanía a áreas verdes permite disfrutar de la naturaleza sin salir de casa. Características Destacadas: Ambientes acogedores y luminosos Chimenea para días fríos Acceso a internet disponible Admite mascotas Ubicación tranquila y accesible GASTOS COMUNES : $2900",
-            "moneda": "$",
-            "precio": "19.500",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a15fd6dbd2b3_infocdn__nbzibjicyyldpw9fweg31tfkd9edcbuoklbrgpuajpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/casa-en-alquiler-en-neptunia/193919263",
             "titulo": "Casa en alquiler en neptunia",
             "id": "193919263",
@@ -51,6 +38,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.176257781_94174_325.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/monoambiente-en-alquiler-casa-en-neptunia-con-chimenea-y-jardin/193800861",
+            "titulo": "Monoambiente en alquiler | casa en neptunia con chimenea y jardín",
+            "id": "193800861",
+            "detalles": "Esta encantadora cabaña en Neptunia ofrece un refugio acogedor donde cada rincón invita a la tranquilidad. Con 30 m² de espacio perfectamente distribuidos, disfrutarás de ambientes iluminados y cálidos, ideales para relajarte después de un largo día. La chimenea añade un toque especial, creando un ambiente perfecto para compartir momentos inolvidables. Además, el acceso a internet y la cocina equipada garantizan que tu comodidad esté siempre presente, mientras que la cercanía a áreas verdes permite disfrutar de la naturaleza sin salir de casa. Características Destacadas: Ambientes acogedores y luminosos Chimenea para días fríos Acceso a internet disponible Admite mascotas Ubicación tranquila y accesible GASTOS COMUNES : $2900",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a15fd6dbd2b3_infocdn__nbzibjicyyldpw9fweg31tfkd9edcbuoklbrgpuajpg.jpg",
             "es_dueno": false
         },
         {
