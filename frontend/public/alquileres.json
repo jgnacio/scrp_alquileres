@@ -1,5 +1,5 @@
 {
-    "last_updated": "20/07/2026 15:54",
+    "last_updated": "20/07/2026 21:57",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/apartamento-en-alquiler-en-neptunia/193899656",
@@ -12,6 +12,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173968158_93759_97.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/monoambiente-en-alquiler-casa-en-neptunia-con-chimenea-y-jardin/193800861",
+            "titulo": "Monoambiente en alquiler | casa en neptunia con chimenea y jardín",
+            "id": "193800861",
+            "detalles": "Esta encantadora cabaña en Neptunia ofrece un refugio acogedor donde cada rincón invita a la tranquilidad. Con 30 m² de espacio perfectamente distribuidos, disfrutarás de ambientes iluminados y cálidos, ideales para relajarte después de un largo día. La chimenea añade un toque especial, creando un ambiente perfecto para compartir momentos inolvidables. Además, el acceso a internet y la cocina equipada garantizan que tu comodidad esté siempre presente, mientras que la cercanía a áreas verdes permite disfrutar de la naturaleza sin salir de casa. Características Destacadas: Ambientes acogedores y luminosos Chimenea para días fríos Acceso a internet disponible Admite mascotas Ubicación tranquila y accesible GASTOS COMUNES : $2900",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a15fd6dbd2b3_infocdn__nbzibjicyyldpw9fweg31tfkd9edcbuoklbrgpuajpg.jpg",
             "es_dueno": false
         },
         {
@@ -168,6 +181,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-apartamentos-en-colonia-nicolich/193961659",
+            "titulo": "Alquiler | apartamentos en colonia nicolich",
+            "id": "193961659",
+            "detalles": "Apartamento moderno y luminoso permite que la luz natural inunde cada ambiente, creando un ambiente cálido y acogedor.  Ubicado en una zona estratégica de General Líber Seregni, tendrás acceso a diversas amenidades, como supermercados, escuelas y espacios recreativos, todo a pocos minutos de tu puerta. La conexión con el transporte público te permitirá desplazarte fácilmente hacia Montevideo y otras áreas cercanas, brindándote la libertad de explorar lo que la región tiene para ofrecer.  Cada detalle de este apartamento ha sido pensado para tu confort, desde la distribución de los espacios hasta los acabados de calidad. No dejes pasar la oportunidad de vivir en un lugar donde cada día se siente especial. Ven a conocer tu futuro hogar en Colonia Nicolich, donde la calidez y la comodidad se encuentran en perfecta armonía. ASESORA INMOBILIARIA CAMILA PÁEZ IMPERIUM QUALITY CENTER",
+            "moneda": "$",
+            "precio": "13.000",
+            "area_m2": "71",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.267391_6a4129294f034f94ccad3c45_522.jpg",
             "es_dueno": false
         }
     ]
