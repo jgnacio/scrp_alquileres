@@ -1,6 +1,32 @@
 {
-    "last_updated": "21/07/2026 15:46",
+    "last_updated": "21/07/2026 22:00",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/casa-tres-dormitorios/193989773",
+            "titulo": "Casa tres dormitorios",
+            "id": "193989773",
+            "detalles": "Alquiler casa de tres dormitorios garaje para dos autos muy iluminada e independienteruta 8 km 28 parada del ómnibus a 50 metros",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "1",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.29b1962d991d17189ecfa681fa06e28e381ae2a6.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194012213",
             "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
