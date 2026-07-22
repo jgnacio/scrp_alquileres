@@ -1,32 +1,6 @@
 {
-    "last_updated": "21/07/2026 22:00",
+    "last_updated": "22/07/2026 15:45",
     "data": [
-        {
-            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
-            "titulo": "Casita a una cuadra del arroyo pando",
-            "id": "193060994",
-            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "70",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/casa-tres-dormitorios/193989773",
-            "titulo": "Casa tres dormitorios",
-            "id": "193989773",
-            "detalles": "Alquiler casa de tres dormitorios garaje para dos autos muy iluminada e independienteruta 8 km 28 parada del ómnibus a 50 metros",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "1",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.29b1962d991d17189ecfa681fa06e28e381ae2a6.jpg",
-            "es_dueno": false
-        },
         {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194012213",
             "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
@@ -80,19 +54,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
-            "titulo": "Onex alquila ph en neptunia sur",
-            "id": "193728253",
-            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
-            "moneda": "$",
-            "precio": "19.500",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptinia-sur-a-metros-de-la-playa/193818874",
             "titulo": "Onex alquila ph en neptinia sur a metros de la playa",
             "id": "193818874",
@@ -103,6 +64,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4571-ALQ_342.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/onex-alquila-ph-en-neptunia-sur/193728253",
+            "titulo": "Onex alquila ph en neptunia sur",
+            "id": "193728253",
+            "detalles": "ONEX ALQUILA | Casa PH en Neptunia Sur ????  A solo 100 metros del mar, ideal para quienes buscan tranquilidad y cercanía a la playa.  ✔️ 1 dormitorio ✔️ 1 baño ✔️ Cocina integrada ✔️ Living comedor ✔️ Entrada compartida  ???? Alquiler: $19.500 ✅ Gastos comunes incluidos (mantenimiento de espacios verdes y pozo)  ???? Garantías: ANDA, CGN o aseguradoras  ???? Comisión inmobiliaria: 1 mes + IVA  ???? Consultá y coordiná tu visita con nuestros asesores Referencia Interna : Tera-4485",
+            "moneda": "$",
+            "precio": "19.500",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
             "es_dueno": false
         },
         {
@@ -129,6 +103,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.376_95455_825.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/194017970",
+            "titulo": "Alquiler casa dos dormitorios barros blancos",
+            "id": "194017970",
+            "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Se alquila casa de dos dormitorios con cochera en Barros Blancos.  La propiedad se encuentra ubicada sobre calle Los Aromos, km 23 de Ruta 8, dentro de un predio totalmente cerrado donde se desarrollan otras tres viviendas.  Al ingresar, cuenta con una cocina comedor semi definida mediante barra desayunadora, espaciosa y con buena iluminación natural. La cocina cuenta con muebles aéreos y bajo mesada, todo en excelente estado de conservación.  La vivienda cuenta con dos dormitorios amplios, uno orientado al frente y otro al contrafrente, ambos con ventanas y buena ventilación. Baño completo de cómodas dimensiones.  Además, dispone de espacio para estacionar un vehículo.  La propiedad se encuentra en buen estado de conservación y pronta para habitar.  Garantías aceptadas: aseguradoras.  Compartimos con todos los colegas. Costo de contrato: un mes de alquiler más IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "100",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.157_951.jpg",
             "es_dueno": false
         },
         {
