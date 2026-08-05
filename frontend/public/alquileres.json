@@ -1,32 +1,6 @@
 {
-    "last_updated": "05/08/2026 16:02",
+    "last_updated": "05/08/2026 22:08",
     "data": [
-        {
-            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
-            "titulo": "Casita a una cuadra del arroyo pando",
-            "id": "193060994",
-            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "70",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/casa-tres-dormitorios/193989773",
-            "titulo": "Casa tres dormitorios",
-            "id": "193989773",
-            "detalles": "Alquiler casa de tres dormitorios garaje para dos autos muy iluminada e independienteruta 8 km 28 parada del ómnibus a 50 metros",
-            "moneda": "$",
-            "precio": "21.000",
-            "area_m2": "1",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.29b1962d991d17189ecfa681fa06e28e381ae2a6.jpg",
-            "es_dueno": false
-        },
         {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194012213",
             "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
@@ -129,6 +103,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.163_451.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/descubra-esta-joya-residencial-una-casa-intima-como-a-estrenar-con-amplio-terreno-y-encanto-inigualable/194078366",
+            "titulo": "Descubra esta joya residencial: una casa íntima, como a estrenar, con amplio terreno y encanto inigualable.",
+            "id": "194078366",
+            "detalles": "Descubra esta preciosa casa a estrenar, una joya totalmente independiente al frente, diseñada para ofrecerle la máxima privacidad y confort. Construida con un innovador sistema modular de excelente calidad, esta propiedad garantiza durabilidad y un diseño moderno.  Con un metraje interno de 40m² inteligentemente distribuidos y un generoso terreno propio de 300m², disfrutará de amplios espacios tanto interiores como exteriores. El luminoso living comedor con cocina integrada es el corazón del hogar, bañado por luz natural y equipado con aire acondicionado para su confort. La cocina, funcional y elegante, cuenta con muebles bajo y sobre mesada, además de un sistema de extracción, facilitando sus tareas culinarias.  La habitación principal es excepcionalmente amplia, diseñada para su descanso, con un módulo de ventana que incluye persiana para un control óptimo de la luz. El baño, un verdadero oasis de relajación, está totalmente equipado con una moderna ducha escocesa, bacha con mueble y mesada, instalación preparada para lavarropas, sistema de extracción y luz natural, combinando funcionalidad y estilo.  No pierda la oportunidad de conocer esta propiedad única que redefine el concepto de hogar. Consulte por opciones de garantías y prepárese para vivir la experiencia de estrenar su nuevo hogar.",
+            "moneda": "$",
+            "precio": "18.500",
+            "area_m2": "40",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a7364d223084_infocdn__gcrxu3d8sik8y0bc5k3xry0ewerdaeym4dcun7hbjpg.jpg",
             "es_dueno": false
         },
         {
