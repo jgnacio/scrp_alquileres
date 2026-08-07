@@ -1,5 +1,5 @@
 {
-    "last_updated": "07/08/2026 00:59",
+    "last_updated": "07/08/2026 14:57",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194012213",
@@ -63,7 +63,7 @@
             "area_m2": "",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_132.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4485-ALQ_266.jpg",
             "es_dueno": false
         },
         {
@@ -194,6 +194,45 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-1-dormitorio-en-barros-blancos/194087944",
+            "titulo": "Alquiler casa 1 dormitorio en barros blancos",
+            "id": "194087944",
+            "detalles": "Corredor Responsable:  -  Contacto: Marcelo Sebastián Sosa Santos Se alquila Casa al frente, ubicada en barrio tranquilo y seguro, ideal para quienes buscan comodidad y buen entorno residencial.   La propiedad cuenta con espacio verde al frente y entrada para auto, con vereda cerrada mediante muro perimetral y portones de madera. Dispone de garaje cerrado y techado para un vehículo, con acceso directo al interior de la vivienda.  Al ingresar, se accede a un cómodo living de 4 x 4 metros, con piso cerámico, cielorraso de madera y ventana con rejas. La vivienda presenta techo de dolmenit con cielorrasos en madera, aportando calidez a los ambientes. Desde el living se conecta, mediante puerta divisoria, al amplio espacio integrado de comedor y cocina.  El comedor, de 7 x 3,5 metros, cuenta con estufa a leña en esquina y ventilador de techo, ambos incluidos, además de un gran ventanal de madera con persiana de PVC y rejas, que brinda excelente iluminación natural. La cocina es funcional, equipada con mesada de granito en forma de L y muebles bajo mesada y aéreos en MDF.  La propiedad dispone de un baño completo de 3 x 2 metros, con calefón instalado. El dormitorio principal mide 4 x 4 metros, presenta piso flotante, placard empotrado y ventana con rejas y herrajes de aluminio. La cama se encuentra incluida.  En la parte posterior, el inmueble ofrece un fondo cerrado con muros, con un espacio de 4 x 3 metros y pasillo lateral con acceso al garaje.  Una opción confortable y segura, pronta para habitar, con buenos espacios y servicios, ideal para vivienda permanente.  Se acepta garantía de: ASEGURADORAS SDI, SURA ENTRE OTRAS, ANDA  Agenda tu visita   Costo del contrato un mes de alquiler más IVA  Se comparte con todos los colegas  Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "133",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.306.66_563.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "",
+            "titulo": "",
+            "id": "",
+            "detalles": "",
+            "moneda": "",
+            "precio": "",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "",
+            "es_dueno": false
+        },
+        {
+            "url": "",
+            "titulo": "",
+            "id": "",
+            "detalles": "",
+            "moneda": "",
+            "precio": "",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "",
             "es_dueno": false
         }
     ]
