@@ -1,6 +1,19 @@
 {
-    "last_updated": "07/08/2026 21:34",
+    "last_updated": "08/08/2026 14:36",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194012213",
             "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
@@ -12,6 +25,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.6a5f24bdbe7c5_infocdn.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/coloniacasa-de-campo-el-quinton/194090773",
+            "titulo": "Colonia-casa de campo el quinton",
+            "id": "194090773",
+            "detalles": "HERMOSA CASA DE CAMPO EN ALQUILER – EL QUINTÓN&nbsp;Tranquilidad, naturaleza y mucho espacio verde para disfrutar.Se alquila hermosa casa de campo ubicada en El Quintón, rodeada de naturaleza y emplazada en un gran predio con amplios espacios verdes, ideal para quienes buscan alejarse del ruido y disfrutar de un entorno tranquilo y natural.La propiedad ofrece un ambiente cálido y confortable, con todo el encanto de la vida de campo y amplios espacios exteriores para disfrutar en familia, descansar y conectar con la naturaleza.Un lugar ideal para quienes valoran la privacidad, la tranquilidad y el contacto con el verde, sin resignar la comodidad de contar con una vivienda acogedora.&nbsp;Una oportunidad para vivir el campo y disfrutar de otra calidad de vida.&nbsp;Consultanos para conocer más detalles y coordinar una visita.Código de referencia: GHO8596688Si te interesó la propiedad puedes coordinar visita a través de los números: ALQUILERES:  Oficina *** / *** VENTAS: *** (Martín González)/ *** (Carlos Véliz)Estamos ubicados en Uruguay esquina Roosevelt, Carmelo - Uruguay.",
+            "moneda": "$",
+            "precio": "20.000",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.6a76df388b990_infocdn.jpg",
             "es_dueno": false
         },
         {
@@ -171,19 +197,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
-            "titulo": "Alquiler 2 dorm. neptunia nte.",
-            "id": "193627120",
-            "detalles": "Alquiler anual, casa en Neptunia norte a media cuadra de  Av. Los Pinos. 2 dormitorios - 2 baños Cocina - Living comedor Patio al frente Patio al fondo Lugar para auto $ 15.000 gtía : Aseguradoras Acepta mascota El 80% de la casa no tiene cieloraso Coordine visita Comisión inm: (mes +iva)  Referencia Interna : Tera-4381",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "50",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
             "titulo": "Alquiler casa de 1 dormitorio en neptunia",
             "id": "193878393",
@@ -197,6 +210,19 @@
             "es_dueno": false
         },
         {
+            "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
+            "titulo": "Alquiler 2 dorm. neptunia nte.",
+            "id": "193627120",
+            "detalles": "Alquiler anual, casa en Neptunia norte a media cuadra de  Av. Los Pinos. 2 dormitorios - 2 baños Cocina - Living comedor Patio al frente Patio al fondo Lugar para auto $ 15.000 gtía : Aseguradoras Acepta mascota El 80% de la casa no tiene cieloraso Coordine visita Comisión inm: (mes +iva)  Referencia Interna : Tera-4381",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "50",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
+            "es_dueno": false
+        },
+        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-1-dormitorio-en-barros-blancos/194087944",
             "titulo": "Alquiler casa 1 dormitorio en barros blancos",
             "id": "194087944",
@@ -207,6 +233,32 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.306.66_563.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "",
+            "titulo": "",
+            "id": "",
+            "detalles": "",
+            "moneda": "",
+            "precio": "",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "",
+            "es_dueno": false
+        },
+        {
+            "url": "",
+            "titulo": "",
+            "id": "",
+            "detalles": "",
+            "moneda": "",
+            "precio": "",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "",
             "es_dueno": false
         }
     ]
