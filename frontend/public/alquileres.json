@@ -1,5 +1,5 @@
 {
-    "last_updated": "08/08/2026 14:36",
+    "last_updated": "08/08/2026 21:25",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -184,19 +184,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-apartamento-un-dormitorio-amueblado-en-colonia-nicolich/193917295",
-            "titulo": "Alquiler apartamento un dormitorio amueblado en colonia nicolich",
-            "id": "193917295",
-            "detalles": "INMOBILIARIA ALQUILA:  Apartamento ubicado en Colonia Nicolich, calle Cno. de las Torcacitas esquina Cno. de los Pinos, a 300 mts de ruta 102  La unidad se encuentra completamente AMOBLADA  Cuenta con: Estar comedor Cocina integrada Un dormitorio con aire acondicionado Baño completo Derecho a estacionar un vehículo  ALQUILER: $15.500 GASTOS COMUNES: $500 GARANTIAS: LUC + MES DE DEPÓSITO POR MOBILIARIO.  Comisión inmobiliaria un mes mas IVA que se puede abonar en cuotas, CONSULTE.  Somos Agentes Oficiales de Porto Seguro y Fideciu, no dude tramitar su garantía con nosotros sin compromiso ni costo previo ni adicional.  Consultas y visitas por el 0-9-3- 3-0-4- 9-9-4 whatsapp O ***llamadas.   *Esta propiedad no admite mascotas.",
-            "moneda": "$",
-            "precio": "15.500",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a3d6278da0ea_infocdn__mmacg7yto87gcse7ku5aomgpjvzxtvdr7klzu8vrjpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
             "titulo": "Alquiler casa de 1 dormitorio en neptunia",
             "id": "193878393",
@@ -233,32 +220,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.306.66_563.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "",
-            "titulo": "",
-            "id": "",
-            "detalles": "",
-            "moneda": "",
-            "precio": "",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "",
-            "es_dueno": false
-        },
-        {
-            "url": "",
-            "titulo": "",
-            "id": "",
-            "detalles": "",
-            "moneda": "",
-            "precio": "",
-            "area_m2": "",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "",
             "es_dueno": false
         }
     ]
