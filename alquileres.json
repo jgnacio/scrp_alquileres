@@ -1,5 +1,5 @@
 {
-    "last_updated": "19/08/2026 21:20",
+    "last_updated": "20/08/2026 14:40",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194012213",
@@ -184,19 +184,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
-            "titulo": "Alquiler casa de 1 dormitorio en neptunia",
-            "id": "193878393",
-            "detalles": "Descubra esta encantadora casa de un dormitorio, estratégicamente ubicada sobre la Ruta 10. La propiedad cuenta con un luminoso living, un baño completo y una cocina funcional, complementados por un práctico fondo. Ideal para quienes buscan comodidad y accesibilidad. Se requiere garantía SURA o Santander, con un valor de $15.000.",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "32",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
             "titulo": "Alquiler 2 dorm. neptunia nte.",
             "id": "193627120",
@@ -207,6 +194,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-4381-ALQ_658.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-de-1-dormitorio-en-neptunia/193878393",
+            "titulo": "Alquiler casa de 1 dormitorio en neptunia",
+            "id": "193878393",
+            "detalles": "Descubra esta encantadora casa de un dormitorio, estratégicamente ubicada sobre la Ruta 10. La propiedad cuenta con un luminoso living, un baño completo y una cocina funcional, complementados por un práctico fondo. Ideal para quienes buscan comodidad y accesibilidad. Se requiere garantía SURA o Santander, con un valor de $15.000.",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "32",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
             "es_dueno": false
         },
         {
