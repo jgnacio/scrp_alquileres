@@ -1,5 +1,5 @@
 {
-    "last_updated": "28/08/2026 05:04",
+    "last_updated": "28/08/2026 23:29",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/coloniacasa-de-campo-el-quinton/194090773",
@@ -142,6 +142,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-2074-ALQ_907.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-un-dormitorio-barros-blancos-km-23/194176675",
+            "titulo": "Alquiler casa un dormitorio  barros blancos km 23",
+            "id": "194176675",
+            "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Alquiler casa de 1 dormitorio con cochera en Barros Blancos  Se alquila casa de un dormitorio con cochera en Barros Blancos, ubicada sobre calle Los Aromos, a la altura del km 23 de Ruta 8, a tan solo una cuadra de la ruta.  La propiedad cuenta con ingreso totalmente independiente, portón de acceso y patio al frente con espacio para ingreso vehicular.  Al ingresar encontramos un amplio living comedor, muy luminoso y con buena distribución. La cocina se encuentra semi definida, cuenta con baño completo y un dormitorio de buenas dimensiones.  Una opción práctica y cómoda, con buena ubicación y fácil acceso a Ruta 8.  Garantía: aseguradora.  Importante: compartimos la propiedad con todos los colegas.  Costos de contrato: 1 mes de alquiler + IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "17.000",
+            "area_m2": "62",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.173_776.jpg",
             "es_dueno": false
         },
         {
