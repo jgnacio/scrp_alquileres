@@ -1,6 +1,19 @@
 {
-    "last_updated": "29/08/2026 03:02",
+    "last_updated": "29/08/2026 22:58",
     "data": [
+        {
+            "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
+            "titulo": "Casita a una cuadra del arroyo pando",
+            "id": "193060994",
+            "detalles": "Casita con entrepiso a media cuadra del Arroyo Pando.&nbsp;Amplio mono ambiente con jardín privado. A cuatro cuadras del Peaje Pando. Fácil&nbsp;acceso a&nbsp;Montevideo y el Este con transporte público.&nbsp;Tiene estufa a leña.&nbsp;Tranquilo vecindario.&nbsp;IMPORTANTE INFORMACIÓN:21.000 por mesSe paga mes adelantado.Garantía preferida - cuatro meses de alquiler&nbsp;OSE y UTE compartido con casita del fondo (mes de Septiembre $2450)CONTACTARSE AL ***",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
+            "es_dueno": false
+        },
         {
             "url": "https://www.infocasas.com.uy/coloniacasa-de-campo-el-quinton/194090773",
             "titulo": "Colonia-casa de campo el quinton",
@@ -80,16 +93,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/194047722",
+            "url": "https://www.infocasas.com.uy/alquiler-casa-dos-dormitorios-barros-blancos/194181640",
             "titulo": "Alquiler casa dos dormitorios barros blancos",
-            "id": "194047722",
+            "id": "194181640",
             "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Se alquila casa de dos dormitorios con cochera en Barros Blancos.  La propiedad se encuentra ubicada sobre calle Los Aromos, km 23 de Ruta 8, dentro de un predio totalmente cerrado donde se desarrollan otras tres viviendas.  Al ingresar, cuenta con una cocina comedor semi definida mediante barra desayunadora, espaciosa y con buena iluminación natural. La cocina cuenta con muebles aéreos y bajo mesada, todo en excelente estado de conservación.  La vivienda cuenta con dos dormitorios amplios, uno orientado al frente y otro al contrafrente, ambos con ventanas y buena ventilación. Baño completo de cómodas dimensiones.  Además, dispone de espacio para estacionar un vehículo.  La propiedad se encuentra en buen estado de conservación y pronta para habitar.  Garantías aceptadas: aseguradoras.  Compartimos con todos los colegas. Costo de contrato: un mes de alquiler más IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
             "moneda": "$",
             "precio": "19.000",
             "area_m2": "100",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.163_451.jpg",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.163.V1_15.jpg",
             "es_dueno": false
         },
         {
