@@ -1,5 +1,5 @@
 {
-    "last_updated": "31/08/2026 19:53",
+    "last_updated": "01/09/2026 00:20",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -145,19 +145,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/en-alquiler-casa-de-1-dormitorio-en-neptunia/194147141",
-            "titulo": "En alquiler casa de 1 dormitorio en neptunia",
-            "id": "194147141",
-            "detalles": "Preciosa casa de 1 dormitorio, en zona privilegiada, ideal persona sola o pareja  Cocina, living comedor.  Aire acondicionado. Baño con cabina de ducha.  Entrada compartida.  Patio independiente con parrillero individual para cada casa, con su division. Predio totalmente cercado con muro de 1 metro y medio.  Instalacion para lavarropa, instalacion para garrafa del lado de afuera. Se alquila sin muebles.  No se aceptan mascotas. En el precio esta incluido el wifi.   $17.500 Garantía unicamente de aseguradoras. Referencia Interna : Tera-2074",
-            "moneda": "$",
-            "precio": "17.500",
-            "area_m2": "500",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-2074-ALQ_907.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-de-casa-de-dos-dormitorios-ubicada-en-una-zona-serena-y-tranquila-con-estacionamiento-privado/194097290",
             "titulo": "Alquiler de casa de dos dormitorios, ubicada en una zona serena y tranquila, con estacionamiento privado.",
             "id": "194097290",
@@ -168,6 +155,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a7a5a11df1b3_infocdn__ctab4pyrj3sv7jmgxcj5n6sf7emf3181auxwfmqmjpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/en-alquiler-casa-de-1-dormitorio-en-neptunia/194147141",
+            "titulo": "En alquiler casa de 1 dormitorio en neptunia",
+            "id": "194147141",
+            "detalles": "Preciosa casa de 1 dormitorio, en zona privilegiada, ideal persona sola o pareja  Cocina, living comedor.  Aire acondicionado. Baño con cabina de ducha.  Entrada compartida.  Patio independiente con parrillero individual para cada casa, con su division. Predio totalmente cercado con muro de 1 metro y medio.  Instalacion para lavarropa, instalacion para garrafa del lado de afuera. Se alquila sin muebles.  No se aceptan mascotas. En el precio esta incluido el wifi.   $17.500 Garantía unicamente de aseguradoras. Referencia Interna : Tera-2074",
+            "moneda": "$",
+            "precio": "17.500",
+            "area_m2": "500",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-2074-ALQ_907.jpg",
             "es_dueno": false
         },
         {
