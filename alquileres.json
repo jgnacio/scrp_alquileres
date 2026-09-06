@@ -1,5 +1,5 @@
 {
-    "last_updated": "05/09/2026 22:37",
+    "last_updated": "06/09/2026 16:47",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/coloniacasa-de-campo-el-quinton/194090773",
@@ -67,19 +67,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/casa-en-alquiler-c-cochera-en-villa-aeroparque/194027776",
-            "titulo": "Casa en alquiler c/ cochera en villa aeroparque",
-            "id": "194027776",
-            "detalles": "Se presenta una exclusiva oportunidad de alquiler en Villa Aeroparque, una casa nueva que destaca por su diseño moderno y funcional. Con una superficie total de 55 m², de los cuales 45 m² son cubiertos y 10 m² descubiertos, esta propiedad ofrece un ambiente acogedor y luminoso. La casa cuenta con un amplio patio ideal para disfrutar del aire libre, además de estar ubicada en una zona estratégica, cercana a locales comerciales y con fácil acceso al transporte público.El inmueble se compone de 3 ambientes, que incluyen 1 dormitorio, 1 baño y una cocina comedor. Entre las características adicionales, se destacan la conexión a agua corriente, luz y alumbrado público, así como la existencia de placards que optimizan el espacio de almacenamiento. La propiedad está disponible para un contrato de dos años y se aceptan garantías de anda o aseguradora, brindando flexibilidad a los interesados.Es importante señalar que el costo de los gastos comunes asciende a UY$1.500, debido a que la propiedad cuenta con pozo negro y se requiere el servicio de barométrica una vez al mes. Además, dispone de cochera descubierta y se encuentra orientada al norte, garantizando una excelente iluminación natural. Esta es una oportunidad única para quienes buscan un hogar confortable y bien ubicado en una de las zonas más prometedoras de la ciudad.Agente asignado: Victoria RodriguezDirección: 25 de mayo 713 oficina 802www.platinuminmobiliaria.com",
-            "moneda": "$",
-            "precio": "19.000",
-            "area_m2": "55",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.175232262_96436_649.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194213123",
             "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
             "id": "194213123",
@@ -106,19 +93,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-de-casa-de-dos-dormitorios-ubicada-en-una-zona-serena-y-tranquila-con-estacionamiento-privado/194097290",
-            "titulo": "Alquiler de casa de dos dormitorios, ubicada en una zona serena y tranquila, con estacionamiento privado.",
-            "id": "194097290",
-            "detalles": "Descubra la tranquilidad y el confort en esta encantadora casa contenedor, lista para habitar. Con dos dormitorios acogedores y equipada con aire acondicionado para su máximo confort, esta propiedad ofrece un baño completo y una cocina funcional con campana extractora. La casa, de 30 m², se complementa con un ingenioso sobretecho que amplía el espacio a un total semiabierto de 60 m², ideal para disfrutar de una barbacoa con parrillero y un conveniente lugar para estacionamiento. Todo esto se enmarca en un extenso jardín privado de 900 m², delimitado vegetación natural, creando un oasis de serenidad. Los gastos comunes incluyen el servicio de agua y el mantenimiento del césped, garantizando una vida sin preocupaciones. Ubicada en una zona excepcionalmente tranquila, esta propiedad le brinda el privilegio de acceder libremente a las 2 hectáreas que conforman toda la finca, invitándole a disfrutar de la naturaleza y la paz que siempre ha deseado.",
-            "moneda": "$",
-            "precio": "17.500",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a7a5a11df1b3_infocdn__ctab4pyrj3sv7jmgxcj5n6sf7emf3181auxwfmqmjpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/en-alquiler-casa-de-1-dormitorio-en-neptunia/194147141",
             "titulo": "En alquiler casa de 1 dormitorio en neptunia",
             "id": "194147141",
@@ -129,6 +103,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.173592118_ONE-2074-ALQ_907.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-de-casa-de-dos-dormitorios-ubicada-en-una-zona-serena-y-tranquila-con-estacionamiento-privado/194097290",
+            "titulo": "Alquiler de casa de dos dormitorios, ubicada en una zona serena y tranquila, con estacionamiento privado.",
+            "id": "194097290",
+            "detalles": "Descubra la tranquilidad y el confort en esta encantadora casa contenedor, lista para habitar. Con dos dormitorios acogedores y equipada con aire acondicionado para su máximo confort, esta propiedad ofrece un baño completo y una cocina funcional con campana extractora. La casa, de 30 m², se complementa con un ingenioso sobretecho que amplía el espacio a un total semiabierto de 60 m², ideal para disfrutar de una barbacoa con parrillero y un conveniente lugar para estacionamiento. Todo esto se enmarca en un extenso jardín privado de 900 m², delimitado vegetación natural, creando un oasis de serenidad. Los gastos comunes incluyen el servicio de agua y el mantenimiento del césped, garantizando una vida sin preocupaciones. Ubicada en una zona excepcionalmente tranquila, esta propiedad le brinda el privilegio de acceder libremente a las 2 hectáreas que conforman toda la finca, invitándole a disfrutar de la naturaleza y la paz que siempre ha deseado.",
+            "moneda": "$",
+            "precio": "17.500",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a7a5a11df1b3_infocdn__ctab4pyrj3sv7jmgxcj5n6sf7emf3181auxwfmqmjpg.jpg",
             "es_dueno": false
         },
         {
