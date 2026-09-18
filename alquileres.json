@@ -1,5 +1,5 @@
 {
-    "last_updated": "18/09/2026 17:36",
+    "last_updated": "18/09/2026 22:58",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -80,19 +80,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194213123",
-            "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
-            "id": "194213123",
-            "detalles": "Alquiler&nbsp; Casa de 1 dormitorio en Neptunia Sur, Canelones.&nbsp;Próximo a la ruta interbalnearia al Sur. A pocas cuadras del Arroyo y a minutos de la Playa.&nbsp;Terreno de 488m2 con tejido perimetral. Construcción de steel framing a estrenar.Casa con living comedor al frente con cocina integrada.&nbsp;Dormitorio de aproximadamente 3m x 4m con ventanal al frente y ventana al contrafrente.&nbsp;Baño completo.&nbsp;Se destaca por tener muchas ventanas que le permiten una excelente ventilación e ingreso de luz natural.Garantías: Portoseguro, Sura o SBI. Te asesoramos con la tramitación!Alquiler mínimo de 1 año.Comisión inmobiliaria: 1 mes de alquiler + IVA.-AHO8492420 - Abate Propiedades - Gestionamos tu garantía de alquiler. Somos corredores de seguros de SURA - PORTO - SBI - SANCOR - ZURICH SANTANDER - MAPFRE.",
-            "moneda": "$",
-            "precio": "18.500",
-            "area_m2": "36",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.6a9bc3aac7ce8_infocdn.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/descubra-esta-joya-residencial-una-casa-intima-como-a-estrenar-con-amplio-terreno-y-encanto-inigualable/194078366",
             "titulo": "Descubra esta joya residencial: una casa íntima, como a estrenar, con amplio terreno y encanto inigualable.",
             "id": "194078366",
@@ -103,6 +90,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.6a7364d223084_infocdn__gcrxu3d8sik8y0bc5k3xry0ewerdaeym4dcun7hbjpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/casa-de-1-dormitorio-en-neptunia-sur-gran-terreno/194213123",
+            "titulo": "Casa de 1 dormitorio en neptunia sur. gran terreno",
+            "id": "194213123",
+            "detalles": "Alquiler  Casa de 1 dormitorio en Neptunia Sur, Canelones. Próximo a la ruta interbalnearia al Sur. A pocas cuadras del Arroyo y a minutos de la Playa. Terreno de 488m2 con tejido perimetral. Construcción de steel framing a estrenar.Casa con living comedor al frente con cocina integrada. Dormitorio de aproximadamente 3m x 4m con ventanal al frente y ventana al contrafrente. Baño completo. Se destaca por tener muchas ventanas que le permiten una excelente ventilación e ingreso de luz natural.Garantías: Portoseguro, Sura o SBI. Te asesoramos con la tramitación!Alquiler mínimo de 1 año.Comisión inmobiliaria: 1 mes de alquiler + IVA.-AHO8492420 - Abate Propiedades - Gestionamos tu garantía de alquiler. Somos corredores de seguros de SURA - PORTO - SBI - SANCOR - ZURICH SANTANDER - MAPFRE.",
+            "moneda": "$",
+            "precio": "17.900",
+            "area_m2": "36",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn4.fincaraiz.com.co/web/th.outside384x275.6a9bc3aac7ce8_infocdn.jpg",
             "es_dueno": false
         },
         {
@@ -194,6 +194,110 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn4.fincaraiz.com.co/repo/img/th.outside384x275.13651_UY.42.5.274.174_915.jpg",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608850-MLU111230040199_052026-E.webp",
+            "moneda": "UYU",
+            "precio": "20.000",
+            "titulo": "Alquiler Casa Barros Blancos Con Cochera",
+            "detalles": "1 dorm. | 1 baño | 60 m² totales",
+            "area_m2": "60 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-691652571-alquiler-casa-barros-blancos-con-cochera-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=5&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_977913-MLU117881437813_092026-E.webp",
+            "moneda": "UYU",
+            "precio": "19.500",
+            "titulo": "Amplia Casa De 2 Dormitorios En El Km 28 De Barros Blancos",
+            "detalles": "2 dorm. | 1 baño | 100 m² totales",
+            "area_m2": "100 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-700545203-amplia-casa-de-2-dormitorios-en-el-km-28-de-barros-blancos-_JM#polycard_client=search-desktop&float_highlight=recent_publication&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=8&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_751989-MLU117192223911_092026-E.webp",
+            "moneda": "UYU",
+            "precio": "17.900",
+            "titulo": "Casa De 1 Dormitorio En Neptunia Sur. Gran Terreno",
+            "detalles": "1 dorm. | 1 baño | 488 m² totales",
+            "area_m2": "488 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1498561944-casa-de-1-dormitorio-en-neptunia-sur-gran-terreno-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=1&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_656546-MLU115894195086_092026-E.webp",
+            "moneda": "UYU",
+            "precio": "17.500",
+            "titulo": "Alquiler De Casa En Neptunia Sur, Primera Línea De Playa",
+            "detalles": "1 dorm. | 1 baño | 60 m² totales",
+            "area_m2": "60 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1488610256-alquiler-de-casa-en-neptunia-sur-primera-linea-de-playa-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=6&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_935476-MLU115906237981_082026-E.webp",
+            "moneda": "UYU",
+            "precio": "17.500",
+            "titulo": "Alquiler De Casa De Dos Dormitorios, Ubicada En Una Zona Serena Y Tranquila, Con Estacionamiento Privado.",
+            "detalles": "2 dorm. | 1 baño | 30 m² totales",
+            "area_m2": "30 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1479592858-alquiler-de-casa-de-dos-dormitorios-ubicada-en-una-zona-serena-y-tranquila-con-estacionamiento-privado-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=7&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_618931-MLU110464182137_042026-E.webp",
+            "moneda": "UYU",
+            "precio": "17.000",
+            "titulo": "Dos Dormitorios En Neptunia",
+            "detalles": "2 dorm. | 1 baño",
+            "area_m2": "",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1473714740-dos-dormitorios-en-neptunia-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=3&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_743510-MLU116011349482_092026-E.webp",
+            "moneda": "UYU",
+            "precio": "13.500",
+            "titulo": "Alquiler Casa Un Dormitorio En Barros Blancos",
+            "detalles": "1 dorm. | 1 baño | 82 m² totales",
+            "area_m2": "82 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-1501874064-alquiler-casa-un-dormitorio-en-barros-blancos-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=2&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
+            "es_dueno": false
+        },
+        {
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_875696-MLU112816805906_072026-E.webp",
+            "moneda": "UYU",
+            "precio": "12.900",
+            "titulo": "Casa Alquiler 1 Dormitorio Neptunia Sur",
+            "detalles": "1 dorm. | 1 baño | 40 m² totales",
+            "area_m2": "40 m²",
+            "id": "",
+            "tiene_telefono": "",
+            "whatsapp_link": "",
+            "url": "https://casa.mercadolibre.com.uy/MLU-696147373-casa-alquiler-1-dormitorio-neptunia-sur-_JM#polycard_client=search-desktop&price_drop=not_apply&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=4&type=item&tracking_id=d04e1eec-2c07-4bcb-9ddf-1923124887f0&sid=search",
             "es_dueno": false
         }
     ]
