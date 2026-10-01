@@ -1,5 +1,5 @@
 {
-    "last_updated": "30/09/2026 19:00",
+    "last_updated": "01/10/2026 00:19",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -132,19 +132,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/casa-en-alquiler/194305359",
-            "titulo": "Casa en alquiler",
-            "id": "194305359",
-            "detalles": "Alquiler casa 2 dorm. Neptunia Nte.  Alquiler anual, casa en Neptunia norte a media cuadra de   Av. Los Pinos.  2 dormitorios - 2 baños  Cocina - Living comedor  Patio al frente  Patio al fondo  Lugar para auto  $ 15.000 gtía : Aseguradoras  Acepta mascota  El 80% de la casa no tiene cieloraso  Coordine visita  Comisión inm: (mes +iva)    Referencia Interna : Tera-4381",
-            "moneda": "$",
-            "precio": "15.000",
-            "area_m2": "50",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ab41cbea17bd_infocdn__ed62be6303bf995c95b22041006a9275jpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-2-dorm-neptunia-nte/193627120",
             "titulo": "Alquiler 2 dorm. neptunia nte.",
             "id": "193627120",
@@ -168,6 +155,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6a30abe980e5e_infocdn__cxvfdzgoqps1j3lfr5ubg3o0ea5snc280wttkxycjpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/casa-en-alquiler/194305359",
+            "titulo": "Casa en alquiler",
+            "id": "194305359",
+            "detalles": "Alquiler casa 2 dorm. Neptunia Nte.  Alquiler anual, casa en Neptunia norte a media cuadra de   Av. Los Pinos.  2 dormitorios - 2 baños  Cocina - Living comedor  Patio al frente  Patio al fondo  Lugar para auto  $ 15.000 gtía : Aseguradoras  Acepta mascota  El 80% de la casa no tiene cieloraso  Coordine visita  Comisión inm: (mes +iva)    Referencia Interna : Tera-4381",
+            "moneda": "$",
+            "precio": "15.000",
+            "area_m2": "50",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ab41cbea17bd_infocdn__ed62be6303bf995c95b22041006a9275jpg.jpg",
             "es_dueno": false
         },
         {
