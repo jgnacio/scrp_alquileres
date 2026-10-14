@@ -1,5 +1,5 @@
 {
-    "last_updated": "14/10/2026 00:05",
+    "last_updated": "14/10/2026 18:25",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/coloniacasa-de-campo-el-quinton/194090773",
@@ -145,19 +145,6 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-apartamento-un-dormitorio-en-colonia-nicolich/194293172",
-            "titulo": "Alquiler apartamento un dormitorio en colonia nicolich",
-            "id": "194293172",
-            "detalles": "INMOBILIARIA ALQUILA:  Apartamento ubicado en Colonia Nicolich, calle Torcacitas esquina Camino de los Pinos.  Cercano a Zonamerica, Aeropuerto y rutas 101 y 102.  La unidad se encuentra en Primer piso por escalera.  Cuenta con: Estar comedor Cocina integrada Un dormitorio Baño completo  Posibilidad de entrar un vehículo Predio cerrado con cámaras de seguridad. Más viviendas y oficinas en el predio  Admite mascotas.  ALQUILER: $14.000 GASTOS COMUNES: $500 GARANTIAS: LUC, se evalúa perfil  Comisión inmobiliaria un mes mas IVA que se puede abonar en cuotas, CONSULTE.  Somos Agentes Oficiales de Porto Seguro y Fideciu, no dude tramitar su garantía con nosotros sin compromiso ni costo previo ni adicional.  Consultas y visitas por el 0-9-3- 3-0-4- 9-9-4 whatsapp preferentemente.   *Esta propiedad no admite mascotas.",
-            "moneda": "$",
-            "precio": "14.000",
-            "area_m2": "30",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ab2a2851cc02_infocdn__bzzbnzn63mjq4zmc4lqrpojheqw5isopurtsijsujpg.jpg",
-            "es_dueno": false
-        },
-        {
             "url": "https://www.infocasas.com.uy/alquiler-casa-un-dormitorio-en-barros-blancos/194387339",
             "titulo": "Alquiler casa un dormitorio en barros blancos",
             "id": "194387339",
@@ -168,6 +155,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.13651_UY.42.5.274.174.V1_761.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-apartamento-un-dormitorio-en-colonia-nicolich/194293172",
+            "titulo": "Alquiler apartamento un dormitorio en colonia nicolich",
+            "id": "194293172",
+            "detalles": "INMOBILIARIA ALQUILA:  Apartamento ubicado en Colonia Nicolich, calle Torcacitas esquina Camino de los Pinos.  Cercano a Zonamerica, Aeropuerto y rutas 101 y 102.  La unidad se encuentra en Primer piso por escalera.  Cuenta con: Estar comedor Cocina integrada Un dormitorio Baño completo  Posibilidad de entrar un vehículo Predio cerrado con cámaras de seguridad. Más viviendas y oficinas en el predio  Admite mascotas.  ALQUILER: $12.000 GASTOS COMUNES: $500 GARANTIAS: LUC, se evalúa perfil  Comisión inmobiliaria un mes mas IVA que se puede abonar en cuotas, CONSULTE.  Somos Agentes Oficiales de Porto Seguro y Fideciu, no dude tramitar su garantía con nosotros sin compromiso ni costo previo ni adicional.  Consultas y visitas por el 0-9-3- 3-0-4- 9-9-4 whatsapp preferentemente.   *Esta propiedad no admite mascotas.",
+            "moneda": "$",
+            "precio": "12.000",
+            "area_m2": "30",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ab2a2851cc02_infocdn__bzzbnzn63mjq4zmc4lqrpojheqw5isopurtsijsujpg.jpg",
             "es_dueno": false
         }
     ]
