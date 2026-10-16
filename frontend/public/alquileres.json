@@ -1,5 +1,5 @@
 {
-    "last_updated": "15/10/2026 23:31",
+    "last_updated": "16/10/2026 17:54",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/coloniacasa-de-campo-el-quinton/194090773",
@@ -155,6 +155,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.13651_UY.42.5.274.174.V1_761.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-de-un-dormitorio-en-barros-blancos/194409634",
+            "titulo": "Alquiler casa de un dormitorio en barros blancos",
+            "id": "194409634",
+            "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Se alquila casa de un dormitorio en Barros Blancos.   La propiedad se encuentra ubicada sobre calle Ícaro, a pocas cuadras de Ruta 101, a la altura del km 30.500, en una zona de fácil acceso.  La casa es totalmente independiente y cuenta con ingreso vehicular al frente. Al ingresar, encontramos una amplia cocina-comedor con placares aéreos y bajo mesada, baño completo y un dormitorio de buenas dimensiones.  Desde el dormitorio accedemos al patio del fondo, que cuenta con un alero y parrillero, además de un amplio espacio verde para disfrutar al aire libre.  Garantía: aseguradora.  Compartimos con todos los colegas.  Costo del contrato: un mes de alquiler más IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
+            "moneda": "$",
+            "precio": "13.000",
+            "area_m2": "100",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.13651_UY.42.5.274.181_689.jpg",
             "es_dueno": false
         },
         {
