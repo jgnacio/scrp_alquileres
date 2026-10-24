@@ -1,5 +1,5 @@
 {
-    "last_updated": "23/10/2026 23:43",
+    "last_updated": "24/10/2026 17:17",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/alquiler-casa-1-dormitorio-colonia-nicolich-patio-y-garaje/194425046",
@@ -64,6 +64,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.376_95455_825.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/se-alquila-casa-contenedor-en-neptunia-sur/194451860",
+            "titulo": "Se alquila casa contenedor en neptunia sur",
+            "id": "194451860",
+            "detalles": "Se alquila casa contenedor en Neptunia sur   Living y cocina integrada   Dos dormitorios   Baño completo   Entrada compartida   Complejo de varias casas  Patio privado con parrillero  Garantía de aseguradora más mes adelantado.  $18.000   Referencia Interna : Tera-4949",
+            "moneda": "$",
+            "precio": "18.000",
+            "area_m2": "",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6adcc3f11abe8_infocdn__84ab0f9881603595a5dd57d472651399jpg.jpg",
             "es_dueno": false
         },
         {
