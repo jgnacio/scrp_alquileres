@@ -1,5 +1,5 @@
 {
-    "last_updated": "29/10/2026 19:28",
+    "last_updated": "30/10/2026 00:33",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casita-a-una-cuadra-del-arroyo-pando/193060994",
@@ -12,19 +12,6 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.705d82d2c1c7572b749a896970b33ef277616a39.jpg",
-            "es_dueno": false
-        },
-        {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-1-dormitorio-colonia-nicolich-patio-y-garaje/194425046",
-            "titulo": "Alquiler casa 1 dormitorio colonia nicolich patio y garaje",
-            "id": "194425046",
-            "detalles": "Barrio Colonia Nicolich, Calle Bernardo O´higgins, Esquina Jose Gervasio Artigas,  Bien ubicado frente a plaza de deportes, a 2 cuadras de parada de omnibus por Ruta 101 y de Ruta interbalnearea. en zona son servicios y locomoción disponible a pasos   Cómoda Casa en Ph al frente, distribuida en una planta, segura con rejas en todas sus aberturas en terreno cerrado con camaras de seguridad  . Living Comedor amplio y luminoso  . Cocina integrada con placares  . 1 Dormitorios   . Baño funcional con conexión para lavarropas  . Garaje   . Patio de uso compartido   Superficie Total: 50m2  Precio: $20.000  Gastos Comunes: Ute y Ose se pagan aparte (único contador que se divide entre 3 casas)  Garantías: Aseguradoras o Depósito  Acepta Mascotas pequeñas   Contrato a 1 año como mínimo   Para coordinar visita por esta o mas propiedades no dude en comunicarse, podemos ayudarle a encontrar lo que está buscando.  Referencia Interna : Tera-7156",
-            "moneda": "$",
-            "precio": "20.000",
-            "area_m2": "50",
-            "tiene_telefono": false,
-            "whatsapp_link": "",
-            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ad67efbeb01b_infocdn__da710ece2878cadf7ad87205d615bba4jpg.jpg",
             "es_dueno": false
         },
         {
@@ -90,6 +77,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ae0af5c64b6e_infocdn__84ab0f9881603595a5dd57d472651399jpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-1-dormitorio-colonia-nicolich-patio-y-garaje/194425046",
+            "titulo": "Alquiler casa 1 dormitorio colonia nicolich patio y garaje",
+            "id": "194425046",
+            "detalles": "Barrio Colonia Nicolich, Calle Bernardo O´higgins, Esquina Jose Gervasio Artigas,  Bien ubicado frente a plaza de deportes, a 2 cuadras de parada de omnibus por Ruta 101 y de Ruta interbalnearea. en zona son servicios y locomoción disponible a pasos   Cómoda Casa en Ph al frente, distribuida en una planta, segura con rejas en todas sus aberturas en terreno cerrado con camaras de seguridad  . Living Comedor amplio y luminoso  . Cocina integrada con placares  . 1 Dormitorios   . Baño funcional con conexión para lavarropas  . Garaje   . Patio de uso compartido   Superficie Total: 50m2  Precio: $18.000  Gastos Comunes: Ute y Ose se pagan aparte (único contador que se divide entre 3 casas)  Garantías: Aseguradoras o Depósito  Acepta Mascotas pequeñas   Contrato a 1 año como mínimo   Para coordinar visita por esta o mas propiedades no dude en comunicarse, podemos ayudarle a encontrar lo que está buscando.  Referencia Interna : Tera-7156",
+            "moneda": "$",
+            "precio": "18.000",
+            "area_m2": "50",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ae3c04e2a351_infocdn__da710ece2878cadf7ad87205d615bba4jpg.jpg",
             "es_dueno": false
         },
         {
