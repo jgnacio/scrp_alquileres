@@ -1,5 +1,5 @@
 {
-    "last_updated": "31/10/2026 23:55",
+    "last_updated": "01/11/2026 18:48",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casa-en-alquiler/194482896",
@@ -38,6 +38,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6a15fd6dbd2b3_infocdn__nbzibjicyyldpw9fweg31tfkd9edcbuoklbrgpuajpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-apartamento-2-dormitorios-a-estrenar-con-patio-y-cochera-sin-gastos-comunes-en-neptunia/194489276",
+            "titulo": "Alquiler apartamento 2 dormitorios a estrenar con patio y cochera sin gastos comunes en neptunia",
+            "id": "194489276",
+            "detalles": "Para mayor información o agendar visita por favor comunicarse apretando el botón de WhatsApp a la derecha de la pantalla.Acepta mascotas.Tiene entrada para dos vehículos.Sin gastos comunes.Garantías: ANDA, Contaduría o FIDECIU.Te presentamos este hermoso apartamento a estrenar en alquiler, ubicado en Neptunia, ideal para quienes buscan tranquilidad, independencia y comodidad en un entorno residencial agradable y bien iluminado.La propiedad cuenta con una cocina-comedor, dos dormitorios y un baño completo, con una distribución práctica y funcional para disfrutar del día a día. Al ser totalmente independiente, ofrece mayor privacidad y comodidad, convirtiéndose en una excelente opción para parejas o familias pequeñas que desean disfrutar de su propio espacio.El inmueble se encuentra dentro de un predio completamente cerrado y dispone de entrada para hasta dos vehículos, brindando practicidad y seguridad. Además, se aceptan mascotas, para que puedas compartir tu nuevo hogar con tus compañeros de cuatro patas.La zona se destaca por su ambiente tranquilo y su buena iluminación, ideal para quienes valoran vivir en un entorno residencial relajado. Otro gran beneficio es que no tiene gastos comunes, lo que permite mantener los costos mensuales más accesibles.Una excelente oportunidad para estrenar vivienda en Neptunia, con independencia, espacio para vehículos y comodidad para toda la familia.¡Consultanos para coordinar visita!",
+            "moneda": "$",
+            "precio": "19.000",
+            "area_m2": "70",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/web/th.outside384x275.6ae6e3bcb2c2f_infocdn.jpg",
             "es_dueno": false
         },
         {
@@ -145,16 +158,16 @@
             "es_dueno": false
         },
         {
-            "url": "https://www.infocasas.com.uy/alquiler-casa-un-dormitorio-en-barros-blancos/194387339",
+            "url": "https://www.infocasas.com.uy/alquiler-casa-un-dormitorio-en-barros-blancos/194489084",
             "titulo": "Alquiler casa un dormitorio en barros blancos",
-            "id": "194387339",
+            "id": "194489084",
             "detalles": "Corredor Responsable:  -  Contacto: Sofía  Roytman Hoffmann Alquiler casa de un dormitorio con patio en Barros Blancos  Se alquila linda casa de un dormitorio con estacionamiento y parrillero en Barros Blancos.  La propiedad se encuentra ubicada sobre Camino al Paso Escobar, a pocas cuadras de Ruta 8 (km 23.500), en una zona de fácil acceso.  Se desarrolla en un padrón amplio que cuenta con tres casas independientes. La unidad en alquiler ofrece total independencia, con entrada propia.  Cuenta con un ambiente amplio y muy luminoso, cocina definida y baño completo de generosas dimensiones. Desde la cocina se accede a un pasillo que conduce a un gran fondo verde con parrillero.  Se trata de una casa totalmente refaccionada, con todas sus aberturas protegidas con rejas.  No dude en coordinar su visita.  Garantía aceptada: aseguradora.  Compartimos con todos los colegas. Comisión inmobiliaria un mes de alquiler mas IVA. Cada Oficina es de propiedad, gestión y desarrollo independiente La presente publicación describe las características esenciales del inmueble, debiéndose consultar al responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
             "moneda": "$",
             "precio": "13.500",
             "area_m2": "82",
             "tiene_telefono": false,
             "whatsapp_link": "",
-            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.13651_UY.42.5.274.174.V1_761.jpg",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.13651_UY.42.5.274.174.V2_921.jpg",
             "es_dueno": false
         },
         {
