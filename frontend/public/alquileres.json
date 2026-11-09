@@ -1,5 +1,5 @@
 {
-    "last_updated": "09/11/2026 00:27",
+    "last_updated": "09/11/2026 23:19",
     "data": [
         {
             "url": "https://www.infocasas.com.uy/casa-en-alquiler/194482896",
@@ -12,6 +12,19 @@
             "tiene_telefono": false,
             "whatsapp_link": "",
             "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6ae4aa80208e5_infocdn__2892-73095jpg.jpg",
+            "es_dueno": false
+        },
+        {
+            "url": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-barros-blanco-patio-y-parrillero/194524873",
+            "titulo": "Alquiler casa 2 dormitorios barros blanco patio y parrillero",
+            "id": "194524873",
+            "detalles": "Barrio Barros Blanco, Calle Curupay, Esquina Junco  Ubicado a una cuadra de Ruta 8, próximo a Ruta 11  en zona con servicios, supermercados y locomoción disponible a pasos  Linda y cómoda Casa distribuida en una planta con disposición al frente   . Living Comedor amplio con estufa a leña   . Cocina definida con placares   . 2 Dormitorios amplios y luminosos  . Baño con mampara de vidrio y placares   . Patio con Parrillero y lavadero   Superficie Total: 94m2  Precio: $21.000  Gastos Comunes: $2.000  Garantías: Aseguradoras   Acepta Mascotas  Contrato a un año como mínimo   Para coordinar visita por esta o mas propiedades no dude en comunicarse, podemos ayudarle a encontrar lo que está buscando  Referencia Interna : Tera-7277",
+            "moneda": "$",
+            "precio": "21.000",
+            "area_m2": "94",
+            "tiene_telefono": false,
+            "whatsapp_link": "",
+            "imagen_url": "https://cdn2.infocasas.com.uy/repo/img/th.outside384x275.6af2092d6a71c_infocdn__abe64eaf11e64da8ef7a544364b49f46jpg.jpg",
             "es_dueno": false
         },
         {
